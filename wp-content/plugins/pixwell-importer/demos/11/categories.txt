@@ -1,0 +1,38 @@
+{
+    "3": {
+        "cat_icon": "#",
+        "cat_featured": ["https://export.themeruby.com/tf01/recipe/wp-content/uploads/sites/2/2019/09/f22.jpg"],
+        "header_style": "default",
+        "header_solid_bg": "#",
+        "header_text_style": "default",
+        "layout": "default",
+        "sidebar_name": "default",
+        "sidebar_pos": "default",
+        "pagination": "default",
+        "breadcrumb": "default"
+    },
+    "4": {
+        "cat_icon": "#",
+        "cat_featured": ["https://export.themeruby.com/tf01/recipe/wp-content/uploads/sites/2/2019/09/f24.jpg"],
+        "header_style": "default",
+        "header_solid_bg": "#",
+        "header_text_style": "default",
+        "layout": "default",
+        "sidebar_name": "default",
+        "sidebar_pos": "default",
+        "pagination": "default",
+        "breadcrumb": "default"
+    },
+    "2": {
+        "cat_icon": "#",
+        "cat_featured": ["https://export.themeruby.com/tf01/recipe/wp-content/uploads/sites/2/2019/09/f23.jpg"],
+        "header_style": "default",
+        "header_solid_bg": "#",
+        "header_text_style": "default",
+        "layout": "default",
+        "sidebar_name": "default",
+        "sidebar_pos": "default",
+        "pagination": "default",
+        "breadcrumb": "default"
+    },
+}

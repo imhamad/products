@@ -1,0 +1,172 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Pixwell Deal\n"
+"POT-Creation-Date: 2020-04-05 22:45+0700\n"
+"PO-Revision-Date: 2017-07-16 09:08+0700\n"
+"Last-Translator: \n"
+"Language-Team: Theme-Ruby <themeruby@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _x;__;_e;_nx:1,2;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: parts.php:30
+msgid "Coupon"
+msgstr ""
+
+#: parts.php:35
+msgid "edit"
+msgstr ""
+
+#: parts.php:103
+msgid "No found deals, Please change query filters in your shortcode."
+msgstr ""
+
+#: pixwell-deal.php:56
+msgid "Deal Options"
+msgstr ""
+
+#: pixwell-deal.php:62
+msgid "Deal Affiliate Link"
+msgstr ""
+
+#: pixwell-deal.php:63
+msgid ""
+"Input the affiliate link for this deal. This is required information, "
+"The deal could not display if missing this information."
+msgstr ""
+
+#: pixwell-deal.php:65
+msgid "https://affiliate-website.com/product"
+msgstr ""
+
+#: pixwell-deal.php:70
+msgid "Deal Affiliate Link Text"
+msgstr ""
+
+#: pixwell-deal.php:71
+msgid "Input the text for this deal link."
+msgstr ""
+
+#: pixwell-deal.php:77
+msgid "Start Date"
+msgstr ""
+
+#: pixwell-deal.php:78
+msgid "Set start date for this deal."
+msgstr ""
+
+#: pixwell-deal.php:86
+msgid "Expire Date"
+msgstr ""
+
+#: pixwell-deal.php:87
+msgid ""
+"Set expire date for this deal, Leave blank the date input for unlimited "
+"last."
+msgstr ""
+
+#: pixwell-deal.php:95
+msgid "Deal Card Text"
+msgstr ""
+
+#: pixwell-deal.php:96
+msgid "Input intro text to show on this featured image."
+msgstr ""
+
+#: pixwell-deal.php:102
+msgid "Deal Coupon Text"
+msgstr ""
+
+#: pixwell-deal.php:103
+msgid "Input a coupon to show on this featured image."
+msgstr ""
+
+#: pixwell-deal.php:116
+msgid "deal"
+msgstr ""
+
+#: pixwell-deal.php:117
+msgid "deal-category"
+msgstr ""
+
+#: pixwell-deal.php:125 pixwell-deal.php:128
+msgid "Deals"
+msgstr ""
+
+#: pixwell-deal.php:126
+msgid "All Deals"
+msgstr ""
+
+#: pixwell-deal.php:127 pixwell-deal.php:131
+msgid "Add New Deal"
+msgstr ""
+
+#: pixwell-deal.php:129
+msgid "Deal"
+msgstr ""
+
+#: pixwell-deal.php:130
+msgid "New Deal"
+msgstr ""
+
+#: pixwell-deal.php:132
+msgid "Edit Deal"
+msgstr ""
+
+#: pixwell-deal.php:133
+msgid "No deal item found."
+msgstr ""
+
+#: pixwell-deal.php:134
+msgid "No deal item found in Trash."
+msgstr ""
+
+#: pixwell-deal.php:156 pixwell-deal.php:157
+msgid "Deal Categories"
+msgstr ""
+
+#: pixwell-deal.php:158
+msgid "Category"
+msgstr ""
+
+#: pixwell-deal.php:159
+msgid "Search Categories"
+msgstr ""
+
+#: pixwell-deal.php:160
+msgid "All Categories"
+msgstr ""
+
+#: pixwell-deal.php:161
+msgid "Parent Category"
+msgstr ""
+
+#: pixwell-deal.php:162
+msgid "Parent Category:"
+msgstr ""
+
+#: pixwell-deal.php:163
+msgid "Edit Category"
+msgstr ""
+
+#: pixwell-deal.php:164
+msgid "Update Category"
+msgstr ""
+
+#: pixwell-deal.php:165
+msgid "Add New Category"
+msgstr ""
+
+#: pixwell-deal.php:166
+msgid "New Category Name"
+msgstr ""

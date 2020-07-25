@@ -1,0 +1,631 @@
+.rb-demos, .rb-demos * {
+    box-sizing: border-box;
+}
+
+.rb-disabled {
+    opacity: .5;
+    cursor: alias;
+    pointer-events: none;
+}
+
+.rb-demos-wrap {
+    position: relative;
+    display: block;
+    max-width: 960px;
+    padding: 30px;
+}
+
+.rb-demos {
+    display: flex;
+    display: -webkit-flex;
+    flex-flow: column nowrap;
+    width: 100%;
+}
+
+.rb-demo-item {
+    display: flex;
+    display: -webkit-flex;
+    flex: 0 0 100%;
+    margin-bottom: 35px;
+}
+
+.rb-demo-item .demo-image {
+    width: 100%;
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    height: auto;
+    object-fit: contain;
+    object-position: center top;
+    transition: all .3s;
+    -webkit-transition: all .3s;
+}
+
+.rb-show-spinner {
+    display: block;
+    visibility: visible;
+    opacity: 1;
+}
+
+.demo-status {
+    position: absolute;
+    opacity: 0;
+}
+
+.is-importing:not(.just-complete) .demo-status {
+    display: none;
+}
+
+h3.demo-name {
+    text-align: right;
+    position: relative;
+    line-height: 1;
+    margin: 20px 30px 0 30px;
+    padding: 0 0 15px 0;
+    color: #fff;
+    border-bottom: 5px solid rgba(255, 255, 255, .07);
+}
+
+.rb-demo-item .inner-item {
+    background-color: #fff;
+    width: 100%;
+    display: flex;
+    position: relative;
+    display: -webkit-flex;
+    flex-flow: row nowrap;
+    overflow: hidden;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .07);
+}
+
+.demo-content {
+    position: relative;
+    display: flex;
+    display: -webkit-flex;
+    flex: 0 0 50%;
+    flex-flow: column nowrap;
+    padding-bottom: 30px;
+    background-color: #23282d;
+    color: #fff;
+}
+
+.demo-content > * {
+    padding: 0 30px;
+    margin-top: 20px;
+}
+
+.demo-content > *:last-child {
+    margin-bottom: 0;
+}
+
+.demo-plugins > h4,
+.rb-import-header {
+    font-weight: 700;
+    margin-bottom: 7px;
+    margin-top: 0;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #aaa;
+}
+
+.demo-plugins .plugin-el {
+    display: block;
+    margin-bottom: 7px;
+    font-size: 12px;
+    padding-left: 10px;
+    overflow: hidden;
+    line-height: 20px;
+}
+
+.demo-plugins .plugin-el:last-child {
+    margin-bottom: 0;
+}
+
+.plugin-el .name {
+    font-weight: 700;
+}
+
+.plugin-el .info {
+    font-weight: normal;
+    display: inline-block;
+    margin-left: 4px;
+    color: #aaa;
+    font-size: 11px;
+}
+
+.activate-info {
+    float: right;
+    display: inline-block;
+}
+
+.plugin-el .activate-info.activated {
+    color: #6ebe75;
+}
+
+.plugin-el a.activate-info {
+    font-weight: 700;
+    line-height: 20px;
+    outline: none !important;
+    box-shadow: none !important;
+    transition: all .3s;
+    -webkit-transition: all .3s;
+}
+
+.plugin-el a.activate-info:hover {
+    color: #fff;
+}
+
+.plugin-el a.activate-info {
+    color: #ffdf36;
+}
+
+.plugin-el.important a.activate-info {
+    color: #ff5151;
+}
+
+.plugin-el .spinner {
+    margin: 0;
+    outline: none !important;
+}
+
+.loading-info {
+    color: #aaa;
+    text-decoration: none;
+    box-shadow: none;
+    outline: none !important;
+    font-weight: 400;
+    margin-right: 4px;
+}
+
+a.activate-info.loading {
+    text-decoration: none;
+}
+
+.demo-preview {
+    position: relative;
+    display: flex;
+    display: -webkit-flex;
+    flex: 0 0 50%;
+    line-height: 0;
+}
+
+.is-importing .demo-image {
+    opacity: .15;
+}
+
+.demo-process-bar {
+    height: 15px;
+    bottom: 0;
+    top: auto;
+    background-color: #eee;
+    width: 100%;
+    display: block;
+    position: absolute;
+    transition: all .3s;
+    -webkit-transition: all .3s;
+    pointer-events: none;
+    opacity: 0;
+    visibility: visible;
+    z-index: 1;
+}
+
+.process-count {
+    transition: all .3s;
+    -webkit-transition: all .3s;
+    opacity: 0;
+    visibility: visible;
+    display: flex;
+    display: -webkit-flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 24px;
+    color: inherit;
+    left: 0;
+    top: 0;
+    right: 10px;
+    bottom: 10px;
+    pointer-events: none;
+    z-index: 1;
+}
+
+.is-importing .process-count,
+.is-importing .demo-process-bar {
+    opacity: 1;
+    visibility: visible;
+}
+
+.process-percent {
+    display: block;
+    width: 0;
+    height: 100%;
+    background-color: #3db247;
+    position: relative;
+    overflow: hidden;
+    transition: all .3s;
+    -webkit-transition: all .3s;
+}
+
+.process-percent:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-image: -webkit-gradient(linear, 0 0, 100% 100%,
+    color-stop(.25, rgba(255, 255, 255, .2)),
+    color-stop(.25, transparent), color-stop(.5, transparent),
+    color-stop(.5, rgba(255, 255, 255, .2)),
+    color-stop(.75, rgba(255, 255, 255, .2)),
+    color-stop(.75, transparent), to(transparent)
+    );
+    background-image: -moz-linear-gradient(
+            -45deg,
+            rgba(255, 255, 255, .2) 25%,
+            transparent 25%,
+            transparent 50%,
+            rgba(255, 255, 255, .2) 50%,
+            rgba(255, 255, 255, .2) 75%,
+            transparent 75%,
+            transparent
+    );
+    z-index: 1;
+    -webkit-background-size: 50px 50px;
+    -moz-background-size: 50px 50px;
+    animation: rbmove 2s linear infinite;
+    -webkit-animation: rbmove 2s linear infinite;
+    overflow: hidden;
+}
+
+.process-percent.is-completed {
+    width: 100% !important;
+}
+
+.process-percent.is-completed:after {
+    opacity: 0;
+}
+
+@keyframes rbmove {
+    0% {
+        background-position: 0 0;
+    }
+    100% {
+        background-position: 50px 50px;
+    }
+}
+
+@-webkit-keyframes rbmove {
+    0% {
+        background-position: 0 0;
+    }
+    100% {
+        background-position: 50px 50px;
+    }
+}
+
+.rb-importer-checkbox {
+    display: flex;
+    display: -webkit-flex;
+    color: inherit !important;
+    text-decoration: none !important;
+    cursor: pointer;
+    flex-grow: 0;
+    align-items: center;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.rb-importer-checkbox:before {
+    display: inline-flex;
+    margin-right: 7px;
+    width: 10px;
+    height: 10px;
+    border: 2px solid #444;
+    border-radius: 50%;
+    content: '';
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+    flex-grow: 0;
+}
+
+.data-select {
+    position: relative;
+    padding-left: 10px;
+    margin-bottom: 15px;
+}
+
+.data-select-el {
+    margin-bottom: 7px;
+}
+
+.rb-importer-checkbox.checked:before {
+    border-color: #6ebe75;
+    background: #6ebe75;
+}
+
+.rb-import-divider {
+    display: block;
+    clear: both;
+    margin: 7px 0;
+    width: 140px;
+    height: 2px;
+    border-bottom: 2px solid rgba(255, 255, 255, .07);
+}
+
+.import-label {
+    color: #aaa;
+    transition: all .3s;
+    -webkit-transition: all .3;
+}
+
+.checked .import-label {
+    color: #fff;
+}
+
+.import-actions {
+    display: flex;
+    display: -webkit-flex;
+    margin-top: auto;
+    width: 100%;
+}
+
+.rb-wait {
+    color: #fff;
+    display: none;
+    animation: rbfade 2s linear infinite;
+    -webkit-animation: rbfade 2s linear infinite;
+}
+
+.rb-loading-info {
+    color: #fff;
+    animation: rbfade 2s linear infinite;
+    -webkit-animation: rbfade 2s linear infinite;
+}
+
+.is-importing:not(.just-complete) .rb-wait {
+    display: block;
+}
+
+@keyframes rbfade {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: .1;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes rbfade {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: .2;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.demo-status {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    padding: 12px 20px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, .3);
+    -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .3);
+    transition: all .3s;
+    -webkit-transition: all .3s;
+}
+
+.is-imported .demo-status {
+    opacity: 1;
+    background-color: #4e9c54;
+}
+
+.rb-demo-item:not(.is-imported):hover .demo-status {
+    opacity: 1;
+    background-color: #23282d;
+}
+
+.rb-importer-btn-wrap {
+    display: flex;
+    display: -webkit-flex;
+    width: 100%;
+    align-items: center;
+}
+
+.rb-importer-btn {
+    margin-left: auto;
+    margin-right: 0;
+    display: flex;
+    display: -webkit-flex;
+    font-weight: 700;
+    line-height: 1;
+    padding: 10px 25px;
+    color: #fff;
+    background-color: #4e9c54;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all .3s;
+    -webkit-transition: all .3s;
+}
+
+.rb-importer-completed {
+    font-weight: 700;
+    line-height: 1;
+    padding: 10px 0;
+    color: #eee;
+    display: none;
+    margin-left: auto;
+}
+
+.rb-do-reimport {
+    background-color: #ddad58;
+}
+
+.rb-importer-btn:hover,
+.rb-do-reimport.rb-importer-btn:hover,
+.rb-importer-btn:focus,
+.rb-do-reimport.rb-importer-btn:focus,
+.is-importing .rb-importer-btn {
+    background-color: #318032;
+}
+
+.is-importing .rb-importer-btn {
+    opacity: .5;
+    pointer-events: none;
+}
+
+.rb-importer-btn.rb-disabled {
+    background-color: #3f4b57;
+}
+
+.just-complete .rb-importer-btn {
+    display: none;
+}
+
+.just-complete .rb-importer-completed {
+    display: block;
+}
+
+.importer-header {
+    display: block;
+    position: relative;
+    margin-bottom: 35px;
+}
+
+.importer-header strong {
+    color: #333;
+}
+
+.importer-headline {
+    font-size: 22px;
+    background-color: #fff;
+    padding: 20px 30px;
+    font-weight: 700;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .07);
+}
+
+.importer-headline i {
+    margin-right: 10px;
+    font-size: 26px;
+    display: inline-block;
+}
+
+.importer-desc p {
+    font-size: 18px;
+    line-height: 1.7;
+    color: #666;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.importer-tips {
+    border: 4px solid #9bb99d;
+    border-radius: 10px;
+    padding: 20px 30px;
+    display: block;
+    position: relative;
+    color: #666;
+    margin-top: 30px;
+}
+
+.importer-tips p {
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 7px;
+}
+
+.importer-notice {
+    margin-top: 20px;
+    border: 4px solid #ffa739;
+    border-radius: 10px;
+    padding: 20px 30px;
+}
+
+.importer-notice p {
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 7px;
+}
+
+body.rtl .rb-demo-item .demo-image {
+    right: 0;
+    left: 0;
+}
+
+body.rtl .demo-status {
+    left: 0;
+    right: auto;
+}
+
+body.rtl h3.demo-name {
+    text-align: left;
+    margin: 20px 30px 0 30px;
+    padding: 0 0 15px 0;
+}
+
+body.rtl .demo-plugins .plugin-el {
+    padding-right: 10px;
+}
+
+body.rtl .plugin-el .info {
+    margin-right: 4px;
+}
+
+body.rtl .activate-info {
+    float: left;
+}
+
+body.rtl .loading-info {
+    margin-left: 4px;
+}
+
+body.rtl .process-count {
+    right: 0;
+    left: 10px;
+}
+
+body.rtl .process-percent:after {
+    right: 0;
+    left: 0;
+}
+
+body.rtl .rb-importer-checkbox:before {
+    margin-left: 7px;
+    margin-right: 0;
+}
+
+body.rtl .data-select {
+    padding-right: 10px;
+}
+
+body.rtl .rb-importer-btn {
+    margin-right: auto;
+    margin-left: 0;
+}
+
+body.rtl .rb-importer-completed {
+    margin-right: auto;
+    margin-left: 0;
+}
+
+body.rtl .importer-headline i {
+    margin-left: 10px;
+    margin-right: auto;
+}

@@ -1,0 +1,50 @@
+{
+    "5": {
+        "cat_icon": "#",
+        "header_style": "default",
+        "header_solid_bg": "#",
+        "header_text_style": "default",
+        "layout": "default",
+        "sidebar_name": "default",
+        "sidebar_pos": "default",
+        "pagination": "default",
+        "breadcrumb": "default",
+        "cat_featured": ["https://export.themeruby.com/tf01/travel/wp-content/uploads/sites/5/2019/09/tr22.jpg"]
+    },
+    "4": {
+        "cat_icon": "#",
+        "cat_featured": ["https://export.themeruby.com/tf01/travel/wp-content/uploads/sites/5/2019/08/tr1.jpg"],
+        "header_style": "default",
+        "header_solid_bg": "#",
+        "header_text_style": "default",
+        "layout": "default",
+        "sidebar_name": "default",
+        "sidebar_pos": "default",
+        "pagination": "default",
+        "breadcrumb": "default"
+    },
+    "2": {
+        "cat_icon": "#",
+        "cat_featured": ["https://export.themeruby.com/tf01/travel/wp-content/uploads/sites/5/2019/08/tr2.jpg"],
+        "header_style": "default",
+        "header_solid_bg": "#",
+        "header_text_style": "default",
+        "layout": "default",
+        "sidebar_name": "default",
+        "sidebar_pos": "default",
+        "pagination": "default",
+        "breadcrumb": "default"
+    },
+    "3": {
+        "cat_icon": "#",
+        "cat_featured": ["https://export.themeruby.com/tf01/travel/wp-content/uploads/sites/5/2019/07/tr27.jpg"],
+        "header_style": "default",
+        "header_solid_bg": "#",
+        "header_text_style": "default",
+        "layout": "default",
+        "sidebar_name": "default",
+        "sidebar_pos": "default",
+        "pagination": "default",
+        "breadcrumb": "default"
+    },
+}

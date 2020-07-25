@@ -1,0 +1,2833 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Pixwell Core\n"
+"POT-Creation-Date: 2020-06-24 01:26+0700\n"
+"PO-Revision-Date: 2017-07-16 09:08+0700\n"
+"Last-Translator: \n"
+"Language-Team: Theme-Ruby <themeruby@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _x;__;_e;_nx:1,2;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: composer\n"
+"X-Poedit-SearchPathExcluded-2: lib\n"
+"X-Poedit-SearchPathExcluded-3: rb-meta\n"
+
+#: elementor/about.php:19
+msgid "Pixwell - About Me"
+msgstr ""
+
+#: elementor/about.php:34 elementor/fw-banner.php:34
+msgid "Content"
+msgstr ""
+
+#: elementor/about.php:42
+msgid "About Tagline"
+msgstr ""
+
+#: elementor/about.php:44
+msgid "Input the about me tagline for this block."
+msgstr ""
+
+#: elementor/about.php:51
+msgid "About Title"
+msgstr ""
+
+#: elementor/about.php:53 elementor/about.php:62
+msgid "Input about me title for this bock."
+msgstr ""
+
+#: elementor/about.php:60
+msgid "About Description"
+msgstr ""
+
+#: elementor/about.php:69
+msgid "About Signature Image"
+msgstr ""
+
+#: elementor/about.php:71
+msgid ""
+"Input signature image link (attachment URL .jpg) for this block.  "
+"Recommended image width: 700px."
+msgstr ""
+
+#: elementor/about.php:78
+msgid "About Image"
+msgstr ""
+
+#: elementor/about.php:80
+msgid ""
+"Input about me image link (attachment URL .jpg) to display at the right "
+"side for this block. Recommended image height: 100px."
+msgstr ""
+
+#: elementor/about.php:87 elementor/ct-classic.php:239
+#: elementor/ct-grid-1.php:318 elementor/ct-grid-2.php:318
+#: elementor/ct-list.php:318 elementor/ct-masonry-1.php:305
+#: elementor/fw-banner.php:215 elementor/fw-feat-3.php:194
+#: elementor/fw-grid-1.php:318 elementor/fw-grid-2.php:318
+#: elementor/fw-grid-3.php:239 elementor/fw-grid-4.php:239
+#: elementor/fw-list-1.php:319 elementor/fw-list-2.php:318
+#: elementor/fw-masonry-1.php:290 elementor/fw-mix-1.php:239
+#: elementor/fw-mix-2.php:239 elementor/fw-newsletter.php:102
+#: elementor/fw-search.php:121
+msgid "Text Style"
+msgstr ""
+
+#: elementor/about.php:89 elementor/ct-classic.php:241
+#: elementor/ct-grid-1.php:320 elementor/ct-grid-2.php:320
+#: elementor/ct-list.php:320 elementor/ct-masonry-1.php:307
+#: elementor/fw-banner.php:217 elementor/fw-feat-3.php:196
+#: elementor/fw-grid-1.php:320 elementor/fw-grid-2.php:320
+#: elementor/fw-grid-3.php:241 elementor/fw-grid-4.php:241
+#: elementor/fw-list-1.php:321 elementor/fw-list-2.php:320
+#: elementor/fw-masonry-1.php:292 elementor/fw-mix-1.php:241
+#: elementor/fw-mix-2.php:241 elementor/fw-newsletter.php:104
+#: elementor/fw-search.php:123
+msgid ""
+"Select block text style, Select light if you have a dark background."
+msgstr ""
+
+#: elementor/base.php:70
+msgid "Pixwell - FullWidth (Boxed) Section"
+msgstr ""
+
+#: elementor/base.php:77
+msgid "Pixwell - FullWide Section"
+msgstr ""
+
+#: elementor/base.php:84
+msgid "Pixwell Content Section"
+msgstr ""
+
+#: elementor/control.php:8
+msgid "-- All categories --"
+msgstr ""
+
+#: elementor/control.php:27 widgets/sb-post.php:117
+msgid "-- All --"
+msgstr ""
+
+#: elementor/control.php:28 widgets/sb-post.php:118
+msgid "Default"
+msgstr ""
+
+#: elementor/control.php:29 rb-gallery/rb-gallery.php:73
+#: widgets/sb-post.php:119
+msgid "Gallery"
+msgstr ""
+
+#: elementor/control.php:30 widgets/sb-post.php:120
+msgid "Video"
+msgstr ""
+
+#: elementor/control.php:31 widgets/sb-post.php:121
+msgid "Audio"
+msgstr ""
+
+#: elementor/control.php:43
+msgid "--All Authors--"
+msgstr ""
+
+#: elementor/control.php:57 widgets/sb-post.php:135
+msgid "Latest Post"
+msgstr ""
+
+#: elementor/control.php:58 widgets/sb-post.php:136
+msgid "Last Updated"
+msgstr ""
+
+#: elementor/control.php:59 widgets/sb-post.php:137
+msgid "Popular Comment"
+msgstr ""
+
+#: elementor/control.php:60 widgets/sb-post.php:138
+msgid "Popular (Require Post Views Plugin)"
+msgstr ""
+
+#: elementor/control.php:61 widgets/sb-post.php:139
+msgid "Popular Last 30 Days (Require Post Views Plugin)"
+msgstr ""
+
+#: elementor/control.php:62 widgets/sb-post.php:140
+msgid "Popular Last 7 Days (Require Post Views Plugin)"
+msgstr ""
+
+#: elementor/control.php:63 widgets/sb-post.php:141
+msgid "Top Review"
+msgstr ""
+
+#: elementor/control.php:64 widgets/sb-post.php:142
+msgid "Latest Review"
+msgstr ""
+
+#: elementor/control.php:65 widgets/sb-post.php:143
+msgid "Post Type"
+msgstr ""
+
+#: elementor/control.php:66
+msgid "Random"
+msgstr ""
+
+#: elementor/control.php:67 widgets/sb-post.php:145
+msgid "Author"
+msgstr ""
+
+#: elementor/control.php:68
+msgid "Title DECS"
+msgstr ""
+
+#: elementor/control.php:69
+msgid "Title ACS"
+msgstr ""
+
+#: elementor/control.php:70
+msgid "by input IDs Data (Work with Post IDs filter)"
+msgstr ""
+
+#: elementor/control.php:76 elementor/control.php:84
+#: elementor/control.php:93 elementor/ct-masonry-1.php:295
+#: elementor/fw-feat-8.php:193 elementor/fw-grid-4.php:253
+msgid "-Disable-"
+msgstr ""
+
+#: elementor/control.php:77
+msgid "by Categories"
+msgstr ""
+
+#: elementor/control.php:78
+msgid "by Tags"
+msgstr ""
+
+#: elementor/control.php:85
+msgid "Next Prev"
+msgstr ""
+
+#: elementor/control.php:86 elementor/control.php:94
+msgid "Load More"
+msgstr ""
+
+#: elementor/control.php:87 elementor/control.php:95
+msgid "infinite Scroll"
+msgstr ""
+
+#: elementor/control.php:101
+msgid "-Dark-"
+msgstr ""
+
+#: elementor/control.php:102
+msgid "Light"
+msgstr ""
+
+#: elementor/control.php:108
+msgid "-- Disable --"
+msgstr ""
+
+#: elementor/control.php:109
+msgid "Script Code"
+msgstr ""
+
+#: elementor/control.php:110
+msgid "Custom Image"
+msgstr ""
+
+#: elementor/ct-classic.php:19
+msgid "Pixwell - Content Classic"
+msgstr ""
+
+#: elementor/ct-classic.php:34 elementor/ct-grid-1.php:34
+#: elementor/ct-grid-2.php:34 elementor/ct-list.php:34
+#: elementor/ct-masonry-1.php:34 elementor/fw-feat-1.php:34
+#: elementor/fw-feat-10.php:34 elementor/fw-feat-11.php:34
+#: elementor/fw-feat-12.php:34 elementor/fw-feat-13.php:33
+#: elementor/fw-feat-14.php:34 elementor/fw-feat-15.php:33
+#: elementor/fw-feat-2.php:34 elementor/fw-feat-3.php:34
+#: elementor/fw-feat-4.php:34 elementor/fw-feat-5.php:34
+#: elementor/fw-feat-6.php:34 elementor/fw-feat-7.php:34
+#: elementor/fw-feat-8.php:34 elementor/fw-feat-9.php:34
+#: elementor/fw-grid-1.php:34 elementor/fw-grid-2.php:34
+#: elementor/fw-grid-3.php:34 elementor/fw-grid-4.php:34
+#: elementor/fw-list-1.php:34 elementor/fw-list-2.php:34
+#: elementor/fw-masonry-1.php:34 elementor/fw-mix-1.php:34
+#: elementor/fw-mix-2.php:34
+msgid "Query Filters"
+msgstr ""
+
+#: elementor/ct-classic.php:41 elementor/ct-grid-1.php:41
+#: elementor/ct-grid-2.php:41 elementor/ct-list.php:41
+#: elementor/ct-masonry-1.php:41 elementor/fw-feat-1.php:42
+#: elementor/fw-feat-10.php:41 elementor/fw-feat-11.php:42
+#: elementor/fw-feat-12.php:41 elementor/fw-feat-13.php:40
+#: elementor/fw-feat-14.php:42 elementor/fw-feat-15.php:41
+#: elementor/fw-feat-2.php:41 elementor/fw-feat-3.php:41
+#: elementor/fw-feat-4.php:41 elementor/fw-feat-5.php:41
+#: elementor/fw-feat-6.php:41 elementor/fw-feat-7.php:41
+#: elementor/fw-feat-8.php:41 elementor/fw-feat-9.php:41
+#: elementor/fw-grid-1.php:41 elementor/fw-grid-2.php:41
+#: elementor/fw-grid-3.php:41 elementor/fw-grid-4.php:41
+#: elementor/fw-list-1.php:41 elementor/fw-list-2.php:41
+#: elementor/fw-masonry-1.php:41 elementor/fw-mix-1.php:41
+#: elementor/fw-mix-2.php:41 widgets/sb-post.php:98
+msgid "Category Filter"
+msgstr ""
+
+#: elementor/ct-classic.php:43 elementor/ct-grid-1.php:43
+#: elementor/ct-grid-2.php:43 elementor/ct-list.php:43
+#: elementor/ct-masonry-1.php:43 elementor/fw-feat-1.php:44
+#: elementor/fw-feat-10.php:43 elementor/fw-feat-11.php:44
+#: elementor/fw-feat-12.php:43 elementor/fw-feat-13.php:42
+#: elementor/fw-feat-14.php:44 elementor/fw-feat-15.php:43
+#: elementor/fw-feat-2.php:43 elementor/fw-feat-3.php:43
+#: elementor/fw-feat-4.php:43 elementor/fw-feat-5.php:43
+#: elementor/fw-feat-6.php:43 elementor/fw-feat-7.php:43
+#: elementor/fw-feat-8.php:43 elementor/fw-feat-9.php:43
+#: elementor/fw-grid-1.php:43 elementor/fw-grid-2.php:43
+#: elementor/fw-grid-3.php:43 elementor/fw-grid-4.php:43
+#: elementor/fw-list-1.php:43 elementor/fw-list-2.php:43
+#: elementor/fw-masonry-1.php:43 elementor/fw-mix-1.php:43
+#: elementor/fw-mix-2.php:43
+msgid "Select category filter for this block."
+msgstr ""
+
+#: elementor/ct-classic.php:51 elementor/ct-grid-1.php:51
+#: elementor/ct-grid-2.php:51 elementor/ct-list.php:51
+#: elementor/ct-masonry-1.php:51 elementor/fw-feat-1.php:52
+#: elementor/fw-feat-10.php:51 elementor/fw-feat-11.php:52
+#: elementor/fw-feat-12.php:51 elementor/fw-feat-13.php:50
+#: elementor/fw-feat-14.php:52 elementor/fw-feat-15.php:51
+#: elementor/fw-feat-2.php:51 elementor/fw-feat-3.php:51
+#: elementor/fw-feat-4.php:51 elementor/fw-feat-5.php:51
+#: elementor/fw-feat-6.php:51 elementor/fw-feat-7.php:51
+#: elementor/fw-feat-8.php:51 elementor/fw-feat-9.php:51
+#: elementor/fw-grid-1.php:51 elementor/fw-grid-2.php:51
+#: elementor/fw-grid-3.php:51 elementor/fw-grid-4.php:51
+#: elementor/fw-list-1.php:51 elementor/fw-list-2.php:51
+#: elementor/fw-masonry-1.php:51 elementor/fw-mix-1.php:51
+#: elementor/fw-mix-2.php:51
+msgid "Categories Filter"
+msgstr ""
+
+#: elementor/ct-classic.php:53 elementor/ct-grid-1.php:53
+#: elementor/ct-grid-2.php:53 elementor/ct-list.php:53
+#: elementor/ct-masonry-1.php:53 elementor/fw-feat-1.php:54
+#: elementor/fw-feat-10.php:53 elementor/fw-feat-11.php:54
+#: elementor/fw-feat-12.php:53 elementor/fw-feat-13.php:52
+#: elementor/fw-feat-14.php:54 elementor/fw-feat-15.php:53
+#: elementor/fw-feat-2.php:53 elementor/fw-feat-3.php:53
+#: elementor/fw-feat-4.php:53 elementor/fw-feat-5.php:53
+#: elementor/fw-feat-6.php:53 elementor/fw-feat-7.php:53
+#: elementor/fw-feat-8.php:53 elementor/fw-feat-9.php:53
+#: elementor/fw-grid-1.php:53 elementor/fw-grid-2.php:53
+#: elementor/fw-grid-3.php:53 elementor/fw-grid-4.php:53
+#: elementor/fw-list-1.php:53 elementor/fw-list-2.php:53
+#: elementor/fw-masonry-1.php:53 elementor/fw-mix-1.php:53
+#: elementor/fw-mix-2.php:53
+msgid ""
+"Filter posts by multiple category IDs, separated category IDs by commas "
+"(for example: 1,2,3)."
+msgstr ""
+
+#: elementor/ct-classic.php:60 elementor/ct-grid-1.php:60
+#: elementor/ct-grid-2.php:60 elementor/ct-list.php:60
+#: elementor/ct-masonry-1.php:60 elementor/fw-feat-1.php:61
+#: elementor/fw-feat-10.php:60 elementor/fw-feat-11.php:61
+#: elementor/fw-feat-12.php:60 elementor/fw-feat-13.php:59
+#: elementor/fw-feat-14.php:61 elementor/fw-feat-15.php:60
+#: elementor/fw-feat-2.php:60 elementor/fw-feat-3.php:60
+#: elementor/fw-feat-4.php:60 elementor/fw-feat-5.php:60
+#: elementor/fw-feat-6.php:60 elementor/fw-feat-7.php:60
+#: elementor/fw-feat-8.php:60 elementor/fw-feat-9.php:60
+#: elementor/fw-grid-1.php:60 elementor/fw-grid-2.php:60
+#: elementor/fw-grid-3.php:60 elementor/fw-grid-4.php:60
+#: elementor/fw-list-1.php:60 elementor/fw-list-2.php:60
+#: elementor/fw-masonry-1.php:60 elementor/fw-mix-1.php:60
+#: elementor/fw-mix-2.php:60
+msgid "Tags Slug Filter"
+msgstr ""
+
+#: elementor/ct-classic.php:62 elementor/ct-grid-1.php:62
+#: elementor/ct-grid-2.php:62 elementor/ct-list.php:62
+#: elementor/ct-masonry-1.php:62 elementor/fw-feat-1.php:63
+#: elementor/fw-feat-10.php:62 elementor/fw-feat-11.php:63
+#: elementor/fw-feat-12.php:62 elementor/fw-feat-13.php:61
+#: elementor/fw-feat-14.php:63 elementor/fw-feat-15.php:62
+#: elementor/fw-feat-2.php:62 elementor/fw-feat-3.php:62
+#: elementor/fw-feat-4.php:62 elementor/fw-feat-5.php:62
+#: elementor/fw-feat-6.php:62 elementor/fw-feat-7.php:62
+#: elementor/fw-feat-8.php:62 elementor/fw-feat-9.php:62
+#: elementor/fw-grid-1.php:62 elementor/fw-grid-2.php:62
+#: elementor/fw-grid-3.php:62 elementor/fw-grid-4.php:62
+#: elementor/fw-list-1.php:62 elementor/fw-list-2.php:62
+#: elementor/fw-masonry-1.php:62 elementor/fw-mix-1.php:62
+#: elementor/fw-mix-2.php:62
+msgid ""
+"Filter posts by tags slug, separated by commas (for example: tagslug1,"
+"tagslug2,tagslug3)."
+msgstr ""
+
+#: elementor/ct-classic.php:69 elementor/ct-grid-1.php:69
+#: elementor/ct-grid-2.php:69 elementor/ct-list.php:69
+#: elementor/ct-masonry-1.php:69 elementor/fw-feat-1.php:70
+#: elementor/fw-feat-10.php:69 elementor/fw-feat-11.php:70
+#: elementor/fw-feat-12.php:69 elementor/fw-feat-13.php:68
+#: elementor/fw-feat-14.php:70 elementor/fw-feat-15.php:69
+#: elementor/fw-feat-2.php:69 elementor/fw-feat-3.php:69
+#: elementor/fw-feat-4.php:69 elementor/fw-feat-5.php:69
+#: elementor/fw-feat-6.php:69 elementor/fw-feat-7.php:69
+#: elementor/fw-feat-8.php:69 elementor/fw-feat-9.php:69
+#: elementor/fw-grid-1.php:69 elementor/fw-grid-2.php:69
+#: elementor/fw-grid-3.php:69 elementor/fw-grid-4.php:69
+#: elementor/fw-list-1.php:69 elementor/fw-list-2.php:69
+#: elementor/fw-masonry-1.php:69 elementor/fw-mix-1.php:69
+#: elementor/fw-mix-2.php:69
+msgid "Exclude Tags Slug"
+msgstr ""
+
+#: elementor/ct-classic.php:71 elementor/ct-grid-1.php:71
+#: elementor/ct-grid-2.php:71 elementor/ct-list.php:71
+#: elementor/ct-masonry-1.php:71 elementor/fw-feat-1.php:72
+#: elementor/fw-feat-10.php:71 elementor/fw-feat-11.php:72
+#: elementor/fw-feat-12.php:71 elementor/fw-feat-13.php:70
+#: elementor/fw-feat-14.php:72 elementor/fw-feat-15.php:71
+#: elementor/fw-feat-2.php:71 elementor/fw-feat-3.php:71
+#: elementor/fw-feat-4.php:71 elementor/fw-feat-5.php:71
+#: elementor/fw-feat-6.php:71 elementor/fw-feat-7.php:71
+#: elementor/fw-feat-8.php:71 elementor/fw-feat-9.php:71
+#: elementor/fw-grid-1.php:71 elementor/fw-grid-2.php:71
+#: elementor/fw-grid-3.php:71 elementor/fw-grid-4.php:71
+#: elementor/fw-list-1.php:71 elementor/fw-list-2.php:71
+#: elementor/fw-masonry-1.php:71 elementor/fw-mix-1.php:71
+#: elementor/fw-mix-2.php:71
+msgid ""
+"Exclude some tags slug from this block, separated by commas (for "
+"example: tagslug1,tagslug2,tagslug3)."
+msgstr ""
+
+#: elementor/ct-classic.php:78 elementor/ct-grid-1.php:78
+#: elementor/ct-grid-2.php:78 elementor/ct-list.php:78
+#: elementor/ct-masonry-1.php:78 elementor/fw-feat-1.php:79
+#: elementor/fw-feat-10.php:78 elementor/fw-feat-11.php:79
+#: elementor/fw-feat-12.php:78 elementor/fw-feat-13.php:77
+#: elementor/fw-feat-14.php:79 elementor/fw-feat-15.php:78
+#: elementor/fw-feat-2.php:78 elementor/fw-feat-3.php:78
+#: elementor/fw-feat-4.php:78 elementor/fw-feat-5.php:78
+#: elementor/fw-feat-6.php:78 elementor/fw-feat-7.php:78
+#: elementor/fw-feat-8.php:78 elementor/fw-feat-9.php:78
+#: elementor/fw-grid-1.php:78 elementor/fw-grid-2.php:78
+#: elementor/fw-grid-3.php:78 elementor/fw-grid-4.php:78
+#: elementor/fw-list-1.php:78 elementor/fw-list-2.php:78
+#: elementor/fw-masonry-1.php:78 elementor/fw-mix-1.php:78
+#: elementor/fw-mix-2.php:78
+msgid "Post Format"
+msgstr ""
+
+#: elementor/ct-classic.php:80 elementor/ct-grid-1.php:80
+#: elementor/ct-grid-2.php:80 elementor/ct-list.php:80
+#: elementor/ct-masonry-1.php:80 elementor/fw-feat-1.php:81
+#: elementor/fw-feat-10.php:80 elementor/fw-feat-11.php:81
+#: elementor/fw-feat-12.php:80 elementor/fw-feat-13.php:79
+#: elementor/fw-feat-14.php:81 elementor/fw-feat-15.php:80
+#: elementor/fw-feat-2.php:80 elementor/fw-feat-3.php:80
+#: elementor/fw-feat-4.php:80 elementor/fw-feat-5.php:80
+#: elementor/fw-feat-6.php:80 elementor/fw-feat-7.php:80
+#: elementor/fw-feat-8.php:80 elementor/fw-feat-9.php:80
+#: elementor/fw-grid-1.php:80 elementor/fw-grid-2.php:80
+#: elementor/fw-grid-3.php:80 elementor/fw-grid-4.php:80
+#: elementor/fw-list-1.php:80 elementor/fw-list-2.php:80
+#: elementor/fw-masonry-1.php:80 elementor/fw-mix-1.php:80
+#: elementor/fw-mix-2.php:80
+msgid "Filter posts by post format."
+msgstr ""
+
+#: elementor/ct-classic.php:88 elementor/ct-grid-1.php:88
+#: elementor/ct-grid-2.php:88 elementor/ct-list.php:88
+#: elementor/ct-masonry-1.php:88 elementor/fw-feat-1.php:89
+#: elementor/fw-feat-10.php:88 elementor/fw-feat-11.php:89
+#: elementor/fw-feat-12.php:88 elementor/fw-feat-13.php:87
+#: elementor/fw-feat-14.php:89 elementor/fw-feat-15.php:88
+#: elementor/fw-feat-2.php:88 elementor/fw-feat-3.php:88
+#: elementor/fw-feat-4.php:88 elementor/fw-feat-5.php:88
+#: elementor/fw-feat-6.php:88 elementor/fw-feat-7.php:88
+#: elementor/fw-feat-8.php:88 elementor/fw-feat-9.php:88
+#: elementor/fw-grid-1.php:88 elementor/fw-grid-2.php:88
+#: elementor/fw-grid-3.php:88 elementor/fw-grid-4.php:88
+#: elementor/fw-list-1.php:88 elementor/fw-list-2.php:88
+#: elementor/fw-masonry-1.php:88 elementor/fw-mix-1.php:88
+#: elementor/fw-mix-2.php:88
+msgid "Author Filter"
+msgstr ""
+
+#: elementor/ct-classic.php:90 elementor/ct-grid-1.php:90
+#: elementor/ct-grid-2.php:90 elementor/ct-list.php:90
+#: elementor/ct-masonry-1.php:90 elementor/fw-feat-1.php:91
+#: elementor/fw-feat-10.php:90 elementor/fw-feat-11.php:91
+#: elementor/fw-feat-12.php:90 elementor/fw-feat-13.php:89
+#: elementor/fw-feat-14.php:91 elementor/fw-feat-15.php:90
+#: elementor/fw-feat-2.php:90 elementor/fw-feat-3.php:90
+#: elementor/fw-feat-4.php:90 elementor/fw-feat-5.php:90
+#: elementor/fw-feat-6.php:90 elementor/fw-feat-7.php:90
+#: elementor/fw-feat-8.php:90 elementor/fw-feat-9.php:90
+#: elementor/fw-grid-1.php:90 elementor/fw-grid-2.php:90
+#: elementor/fw-grid-3.php:90 elementor/fw-grid-4.php:90
+#: elementor/fw-list-1.php:90 elementor/fw-list-2.php:90
+#: elementor/fw-masonry-1.php:90 elementor/fw-mix-1.php:90
+#: elementor/fw-mix-2.php:90
+msgid "Filter posts by the author."
+msgstr ""
+
+#: elementor/ct-classic.php:99 elementor/ct-grid-1.php:99
+#: elementor/ct-grid-2.php:99 elementor/ct-list.php:99
+#: elementor/ct-masonry-1.php:99 elementor/fw-feat-1.php:100
+#: elementor/fw-feat-10.php:99 elementor/fw-feat-11.php:100
+#: elementor/fw-feat-12.php:99 elementor/fw-feat-13.php:98
+#: elementor/fw-feat-14.php:100 elementor/fw-feat-15.php:99
+#: elementor/fw-feat-2.php:99 elementor/fw-feat-3.php:99
+#: elementor/fw-feat-4.php:99 elementor/fw-feat-5.php:99
+#: elementor/fw-feat-6.php:99 elementor/fw-feat-7.php:99
+#: elementor/fw-feat-8.php:99 elementor/fw-feat-9.php:99
+#: elementor/fw-grid-1.php:99 elementor/fw-grid-2.php:99
+#: elementor/fw-grid-3.php:99 elementor/fw-grid-4.php:99
+#: elementor/fw-list-1.php:99 elementor/fw-list-2.php:99
+#: elementor/fw-masonry-1.php:99 elementor/fw-mix-1.php:99
+#: elementor/fw-mix-2.php:99
+msgid "Exclude Post IDs"
+msgstr ""
+
+#: elementor/ct-classic.php:101 elementor/ct-grid-1.php:101
+#: elementor/ct-grid-2.php:101 elementor/ct-list.php:101
+#: elementor/ct-masonry-1.php:101 elementor/fw-feat-1.php:102
+#: elementor/fw-feat-10.php:101 elementor/fw-feat-11.php:102
+#: elementor/fw-feat-12.php:101 elementor/fw-feat-13.php:100
+#: elementor/fw-feat-14.php:102 elementor/fw-feat-15.php:101
+#: elementor/fw-feat-2.php:101 elementor/fw-feat-3.php:101
+#: elementor/fw-feat-4.php:101 elementor/fw-feat-5.php:101
+#: elementor/fw-feat-6.php:101 elementor/fw-feat-7.php:101
+#: elementor/fw-feat-8.php:101 elementor/fw-feat-9.php:101
+#: elementor/fw-grid-1.php:101 elementor/fw-grid-2.php:101
+#: elementor/fw-grid-3.php:101 elementor/fw-grid-4.php:101
+#: elementor/fw-list-1.php:101 elementor/fw-list-2.php:101
+#: elementor/fw-masonry-1.php:101 elementor/fw-mix-1.php:101
+#: elementor/fw-mix-2.php:101
+msgid ""
+"Exclude some post IDs from this block, separated by commas (for example: "
+"1,2,3)."
+msgstr ""
+
+#: elementor/ct-classic.php:108 elementor/ct-grid-1.php:108
+#: elementor/ct-grid-2.php:108 elementor/ct-list.php:108
+#: elementor/ct-masonry-1.php:108 elementor/fw-feat-1.php:109
+#: elementor/fw-feat-10.php:108 elementor/fw-feat-11.php:109
+#: elementor/fw-feat-12.php:108 elementor/fw-feat-13.php:107
+#: elementor/fw-feat-14.php:109 elementor/fw-feat-15.php:108
+#: elementor/fw-feat-2.php:108 elementor/fw-feat-3.php:108
+#: elementor/fw-feat-4.php:108 elementor/fw-feat-5.php:108
+#: elementor/fw-feat-6.php:108 elementor/fw-feat-7.php:108
+#: elementor/fw-feat-8.php:108 elementor/fw-feat-9.php:108
+#: elementor/fw-grid-1.php:108 elementor/fw-grid-2.php:108
+#: elementor/fw-grid-3.php:108 elementor/fw-grid-4.php:108
+#: elementor/fw-list-1.php:108 elementor/fw-list-2.php:108
+#: elementor/fw-masonry-1.php:108 elementor/fw-mix-1.php:108
+#: elementor/fw-mix-2.php:108
+msgid "Post IDs Filter"
+msgstr ""
+
+#: elementor/ct-classic.php:110 elementor/ct-grid-1.php:110
+#: elementor/ct-grid-2.php:110 elementor/ct-list.php:110
+#: elementor/ct-masonry-1.php:110 elementor/fw-feat-1.php:111
+#: elementor/fw-feat-10.php:110 elementor/fw-feat-11.php:111
+#: elementor/fw-feat-12.php:110 elementor/fw-feat-13.php:109
+#: elementor/fw-feat-14.php:111 elementor/fw-feat-15.php:110
+#: elementor/fw-feat-2.php:110 elementor/fw-feat-3.php:110
+#: elementor/fw-feat-4.php:110 elementor/fw-feat-5.php:110
+#: elementor/fw-feat-6.php:110 elementor/fw-feat-7.php:110
+#: elementor/fw-feat-8.php:110 elementor/fw-feat-9.php:110
+#: elementor/fw-grid-1.php:110 elementor/fw-grid-2.php:110
+#: elementor/fw-grid-3.php:110 elementor/fw-grid-4.php:110
+#: elementor/fw-list-1.php:110 elementor/fw-list-2.php:110
+#: elementor/fw-masonry-1.php:110 elementor/fw-mix-1.php:110
+#: elementor/fw-mix-2.php:110
+msgid "Filter posts by post IDs. separated by commas (for example: 1,2,3)."
+msgstr ""
+
+#: elementor/ct-classic.php:117 elementor/ct-grid-1.php:117
+#: elementor/ct-grid-2.php:117 elementor/ct-list.php:117
+#: elementor/ct-masonry-1.php:117 elementor/fw-feat-1.php:118
+#: elementor/fw-feat-10.php:117 elementor/fw-feat-11.php:118
+#: elementor/fw-feat-12.php:117 elementor/fw-feat-13.php:116
+#: elementor/fw-feat-14.php:118 elementor/fw-feat-15.php:117
+#: elementor/fw-feat-2.php:117 elementor/fw-feat-3.php:117
+#: elementor/fw-feat-4.php:117 elementor/fw-feat-5.php:117
+#: elementor/fw-feat-6.php:117 elementor/fw-feat-7.php:117
+#: elementor/fw-feat-8.php:117 elementor/fw-feat-9.php:117
+#: elementor/fw-grid-1.php:117 elementor/fw-grid-2.php:117
+#: elementor/fw-grid-3.php:117 elementor/fw-grid-4.php:117
+#: elementor/fw-list-1.php:117 elementor/fw-list-2.php:117
+#: elementor/fw-masonry-1.php:117 elementor/fw-mix-1.php:117
+#: elementor/fw-mix-2.php:117
+msgid "Sort Order"
+msgstr ""
+
+#: elementor/ct-classic.php:119 elementor/ct-grid-1.php:119
+#: elementor/ct-grid-2.php:119 elementor/ct-list.php:119
+#: elementor/ct-masonry-1.php:119 elementor/fw-feat-1.php:120
+#: elementor/fw-feat-10.php:119 elementor/fw-feat-11.php:120
+#: elementor/fw-feat-12.php:119 elementor/fw-feat-13.php:118
+#: elementor/fw-feat-14.php:120 elementor/fw-feat-15.php:119
+#: elementor/fw-feat-2.php:119 elementor/fw-feat-3.php:119
+#: elementor/fw-feat-4.php:119 elementor/fw-feat-5.php:119
+#: elementor/fw-feat-6.php:119 elementor/fw-feat-7.php:119
+#: elementor/fw-feat-8.php:119 elementor/fw-feat-9.php:119
+#: elementor/fw-grid-1.php:119 elementor/fw-grid-2.php:119
+#: elementor/fw-grid-3.php:119 elementor/fw-grid-4.php:119
+#: elementor/fw-list-1.php:119 elementor/fw-list-2.php:119
+#: elementor/fw-masonry-1.php:119 elementor/fw-mix-1.php:119
+#: elementor/fw-mix-2.php:119
+msgid "Select sort order type for this block."
+msgstr ""
+
+#: elementor/ct-classic.php:127 elementor/ct-grid-1.php:127
+#: elementor/ct-grid-2.php:127 elementor/ct-list.php:127
+#: elementor/ct-masonry-1.php:127 elementor/fw-feat-10.php:127
+#: elementor/fw-feat-12.php:127 elementor/fw-feat-13.php:135
+#: elementor/fw-feat-14.php:137 elementor/fw-feat-15.php:136
+#: elementor/fw-feat-3.php:127 elementor/fw-feat-4.php:136
+#: elementor/fw-feat-5.php:136 elementor/fw-feat-7.php:127
+#: elementor/fw-feat-8.php:127 elementor/fw-feat-9.php:127
+#: elementor/fw-grid-1.php:127 elementor/fw-grid-2.php:127
+#: elementor/fw-grid-3.php:127 elementor/fw-grid-4.php:127
+#: elementor/fw-list-1.php:127 elementor/fw-list-2.php:127
+#: elementor/fw-masonry-1.php:127 elementor/fw-mix-1.php:127
+#: elementor/fw-mix-2.php:127
+msgid "Posts per Page"
+msgstr ""
+
+#: elementor/ct-classic.php:129 elementor/ct-grid-1.php:129
+#: elementor/ct-grid-2.php:129 elementor/ct-list.php:129
+#: elementor/ct-masonry-1.php:129 elementor/fw-feat-10.php:129
+#: elementor/fw-feat-12.php:129 elementor/fw-feat-3.php:129
+#: elementor/fw-feat-4.php:138 elementor/fw-feat-5.php:138
+#: elementor/fw-feat-7.php:129 elementor/fw-feat-8.php:129
+#: elementor/fw-feat-9.php:129 elementor/fw-grid-1.php:129
+#: elementor/fw-grid-2.php:129 elementor/fw-grid-3.php:129
+#: elementor/fw-grid-4.php:129 elementor/fw-list-1.php:129
+#: elementor/fw-list-2.php:129 elementor/fw-masonry-1.php:129
+#: elementor/fw-mix-1.php:129 elementor/fw-mix-2.php:129
+msgid "Select number of posts per page (total posts to show)."
+msgstr ""
+
+#: elementor/ct-classic.php:136 elementor/ct-grid-1.php:136
+#: elementor/ct-grid-2.php:136 elementor/ct-list.php:136
+#: elementor/ct-masonry-1.php:136 elementor/fw-feat-1.php:128
+#: elementor/fw-feat-10.php:136 elementor/fw-feat-11.php:128
+#: elementor/fw-feat-12.php:136 elementor/fw-feat-13.php:126
+#: elementor/fw-feat-14.php:128 elementor/fw-feat-15.php:127
+#: elementor/fw-feat-2.php:127 elementor/fw-feat-3.php:136
+#: elementor/fw-feat-4.php:127 elementor/fw-feat-5.php:127
+#: elementor/fw-feat-6.php:127 elementor/fw-feat-7.php:136
+#: elementor/fw-feat-8.php:136 elementor/fw-feat-9.php:136
+#: elementor/fw-grid-1.php:136 elementor/fw-grid-2.php:136
+#: elementor/fw-grid-3.php:136 elementor/fw-grid-4.php:136
+#: elementor/fw-list-1.php:136 elementor/fw-list-2.php:136
+#: elementor/fw-masonry-1.php:136 elementor/fw-mix-1.php:136
+#: elementor/fw-mix-2.php:136 widgets/sb-post.php:129
+msgid "Post Offset"
+msgstr ""
+
+#: elementor/ct-classic.php:138 elementor/ct-grid-1.php:138
+#: elementor/ct-grid-2.php:138 elementor/ct-list.php:138
+#: elementor/ct-masonry-1.php:138 elementor/fw-feat-1.php:130
+#: elementor/fw-feat-10.php:138 elementor/fw-feat-11.php:130
+#: elementor/fw-feat-12.php:138 elementor/fw-feat-13.php:128
+#: elementor/fw-feat-14.php:130 elementor/fw-feat-15.php:129
+#: elementor/fw-feat-2.php:129 elementor/fw-feat-3.php:138
+#: elementor/fw-feat-4.php:129 elementor/fw-feat-5.php:129
+#: elementor/fw-feat-6.php:129 elementor/fw-feat-7.php:138
+#: elementor/fw-feat-8.php:138 elementor/fw-feat-9.php:138
+#: elementor/fw-grid-1.php:138 elementor/fw-grid-2.php:138
+#: elementor/fw-grid-3.php:138 elementor/fw-grid-4.php:138
+#: elementor/fw-list-1.php:138 elementor/fw-list-2.php:138
+#: elementor/fw-masonry-1.php:138 elementor/fw-mix-1.php:138
+#: elementor/fw-mix-2.php:138
+msgid ""
+"Select number of posts to pass over. Leave blank or set 0 if you want to "
+"show at the beginning."
+msgstr ""
+
+#: elementor/ct-classic.php:147 elementor/ct-grid-1.php:147
+#: elementor/ct-grid-2.php:147 elementor/ct-list.php:147
+#: elementor/ct-masonry-1.php:147 elementor/fw-banner.php:169
+#: elementor/fw-feat-1.php:139 elementor/fw-feat-10.php:146
+#: elementor/fw-feat-11.php:139 elementor/fw-feat-12.php:146
+#: elementor/fw-feat-14.php:148 elementor/fw-feat-2.php:138
+#: elementor/fw-feat-3.php:146 elementor/fw-feat-4.php:147
+#: elementor/fw-feat-5.php:147 elementor/fw-feat-6.php:138
+#: elementor/fw-feat-7.php:146 elementor/fw-feat-9.php:146
+#: elementor/fw-grid-1.php:147 elementor/fw-grid-2.php:147
+#: elementor/fw-grid-3.php:147 elementor/fw-grid-4.php:147
+#: elementor/fw-list-1.php:147 elementor/fw-list-2.php:147
+#: elementor/fw-masonry-1.php:147 elementor/fw-mix-1.php:147
+#: elementor/fw-mix-2.php:147
+msgid "Block Header"
+msgstr ""
+
+#: elementor/ct-classic.php:154 elementor/ct-grid-1.php:154
+#: elementor/ct-grid-2.php:154 elementor/ct-list.php:154
+#: elementor/ct-masonry-1.php:154 elementor/fw-banner.php:177
+#: elementor/fw-feat-1.php:146 elementor/fw-feat-10.php:153
+#: elementor/fw-feat-11.php:146 elementor/fw-feat-12.php:153
+#: elementor/fw-feat-14.php:155 elementor/fw-feat-2.php:145
+#: elementor/fw-feat-3.php:153 elementor/fw-feat-4.php:154
+#: elementor/fw-feat-5.php:154 elementor/fw-feat-6.php:145
+#: elementor/fw-feat-7.php:153 elementor/fw-feat-9.php:153
+#: elementor/fw-grid-1.php:154 elementor/fw-grid-2.php:154
+#: elementor/fw-grid-3.php:154 elementor/fw-grid-4.php:154
+#: elementor/fw-list-1.php:154 elementor/fw-list-2.php:154
+#: elementor/fw-masonry-1.php:154 elementor/fw-mix-1.php:154
+#: elementor/fw-mix-2.php:154 elementor/fw-newsletter.php:42
+msgid "Block Title"
+msgstr ""
+
+#: elementor/ct-classic.php:156 elementor/ct-grid-1.php:156
+#: elementor/ct-grid-2.php:156 elementor/ct-list.php:156
+#: elementor/ct-masonry-1.php:156 elementor/fw-banner.php:179
+#: elementor/fw-feat-1.php:148 elementor/fw-feat-10.php:155
+#: elementor/fw-feat-11.php:148 elementor/fw-feat-12.php:155
+#: elementor/fw-feat-14.php:157 elementor/fw-feat-2.php:147
+#: elementor/fw-feat-3.php:155 elementor/fw-feat-4.php:156
+#: elementor/fw-feat-5.php:156 elementor/fw-feat-6.php:147
+#: elementor/fw-feat-7.php:155 elementor/fw-feat-9.php:155
+#: elementor/fw-grid-1.php:156 elementor/fw-grid-2.php:156
+#: elementor/fw-grid-3.php:156 elementor/fw-grid-4.php:156
+#: elementor/fw-list-1.php:156 elementor/fw-list-2.php:156
+#: elementor/fw-masonry-1.php:156 elementor/fw-mix-1.php:156
+#: elementor/fw-mix-2.php:156 elementor/fw-newsletter.php:44
+msgid "Input block title, Leave blank if you want to disable block header."
+msgstr ""
+
+#: elementor/ct-classic.php:157 elementor/ct-grid-1.php:157
+#: elementor/ct-grid-2.php:157 elementor/ct-list.php:157
+#: elementor/fw-grid-1.php:157 elementor/fw-grid-2.php:157
+#: elementor/fw-grid-3.php:157 elementor/fw-grid-4.php:157
+#: elementor/fw-list-1.php:157 elementor/fw-list-2.php:157
+#: elementor/fw-masonry-1.php:157 elementor/fw-mix-1.php:157
+#: elementor/fw-mix-2.php:157
+msgid "Latest News"
+msgstr ""
+
+#: elementor/ct-classic.php:164 elementor/ct-grid-1.php:164
+#: elementor/ct-grid-2.php:164 elementor/ct-list.php:164
+#: elementor/ct-masonry-1.php:164 elementor/fw-banner.php:187
+#: elementor/fw-feat-1.php:156 elementor/fw-feat-10.php:163
+#: elementor/fw-feat-11.php:156 elementor/fw-feat-12.php:163
+#: elementor/fw-feat-14.php:165 elementor/fw-feat-2.php:155
+#: elementor/fw-feat-3.php:163 elementor/fw-feat-4.php:164
+#: elementor/fw-feat-5.php:164 elementor/fw-feat-6.php:155
+#: elementor/fw-feat-7.php:163 elementor/fw-feat-9.php:163
+#: elementor/fw-grid-1.php:164 elementor/fw-grid-2.php:164
+#: elementor/fw-grid-3.php:164 elementor/fw-grid-4.php:164
+#: elementor/fw-list-1.php:164 elementor/fw-list-2.php:164
+#: elementor/fw-masonry-1.php:164 elementor/fw-mix-1.php:164
+#: elementor/fw-mix-2.php:164
+msgid "View More URL"
+msgstr ""
+
+#: elementor/ct-classic.php:166 elementor/ct-grid-1.php:166
+#: elementor/ct-grid-2.php:166 elementor/ct-list.php:166
+#: elementor/ct-masonry-1.php:166 elementor/fw-banner.php:189
+#: elementor/fw-feat-1.php:158 elementor/fw-feat-10.php:165
+#: elementor/fw-feat-11.php:158 elementor/fw-feat-12.php:165
+#: elementor/fw-feat-14.php:167 elementor/fw-feat-2.php:157
+#: elementor/fw-feat-3.php:165 elementor/fw-feat-4.php:166
+#: elementor/fw-feat-5.php:166 elementor/fw-feat-6.php:157
+#: elementor/fw-feat-7.php:165 elementor/fw-feat-9.php:165
+#: elementor/fw-grid-1.php:166 elementor/fw-grid-2.php:166
+#: elementor/fw-grid-3.php:166 elementor/fw-grid-4.php:166
+#: elementor/fw-list-1.php:166 elementor/fw-list-2.php:166
+#: elementor/fw-masonry-1.php:166 elementor/fw-mix-1.php:166
+#: elementor/fw-mix-2.php:166
+msgid ""
+"Input the block destination link, Leave blank if you want to disable "
+"clickable on the block header."
+msgstr ""
+
+#: elementor/ct-classic.php:174 elementor/ct-grid-1.php:174
+#: elementor/ct-grid-2.php:174 elementor/ct-list.php:174
+#: elementor/ct-masonry-1.php:174 elementor/fw-banner.php:197
+#: elementor/fw-feat-1.php:166 elementor/fw-feat-10.php:173
+#: elementor/fw-feat-11.php:166 elementor/fw-feat-12.php:173
+#: elementor/fw-feat-14.php:175 elementor/fw-feat-2.php:165
+#: elementor/fw-feat-3.php:173 elementor/fw-feat-4.php:174
+#: elementor/fw-feat-5.php:174 elementor/fw-feat-6.php:165
+#: elementor/fw-feat-7.php:173 elementor/fw-feat-9.php:173
+#: elementor/fw-grid-1.php:174 elementor/fw-grid-2.php:174
+#: elementor/fw-grid-3.php:174 elementor/fw-grid-4.php:174
+#: elementor/fw-list-1.php:174 elementor/fw-list-2.php:174
+#: elementor/fw-masonry-1.php:174 elementor/fw-mix-1.php:174
+#: elementor/fw-mix-2.php:174
+msgid "View More Label"
+msgstr ""
+
+#: elementor/ct-classic.php:176 elementor/ct-grid-1.php:176
+#: elementor/ct-grid-2.php:176 elementor/ct-list.php:176
+#: elementor/ct-masonry-1.php:176 elementor/fw-banner.php:199
+#: elementor/fw-feat-1.php:168 elementor/fw-feat-10.php:175
+#: elementor/fw-feat-11.php:168 elementor/fw-feat-12.php:175
+#: elementor/fw-feat-14.php:177 elementor/fw-feat-2.php:167
+#: elementor/fw-feat-3.php:175 elementor/fw-feat-4.php:176
+#: elementor/fw-feat-5.php:176 elementor/fw-feat-6.php:167
+#: elementor/fw-feat-7.php:175 elementor/fw-feat-9.php:175
+#: elementor/fw-grid-1.php:176 elementor/fw-grid-2.php:176
+#: elementor/fw-grid-3.php:176 elementor/fw-grid-4.php:176
+#: elementor/fw-list-1.php:176 elementor/fw-list-2.php:176
+#: elementor/fw-masonry-1.php:176 elementor/fw-mix-1.php:176
+#: elementor/fw-mix-2.php:176
+msgid ""
+"Input the block header tagline, this is description display below the "
+"block title."
+msgstr ""
+
+#: elementor/ct-classic.php:183 elementor/ct-grid-1.php:183
+#: elementor/ct-grid-2.php:183 elementor/ct-list.php:183
+#: elementor/fw-grid-1.php:183 elementor/fw-grid-2.php:183
+#: elementor/fw-grid-3.php:183 elementor/fw-grid-4.php:183
+#: elementor/fw-list-1.php:183 elementor/fw-list-2.php:183
+#: elementor/fw-mix-1.php:183 elementor/fw-mix-2.php:183
+msgid "Quick Filter"
+msgstr ""
+
+#: elementor/ct-classic.php:185 elementor/ct-grid-1.php:185
+#: elementor/ct-grid-2.php:185 elementor/ct-list.php:185
+#: elementor/fw-grid-1.php:185 elementor/fw-grid-2.php:185
+#: elementor/fw-grid-3.php:185 elementor/fw-grid-4.php:185
+#: elementor/fw-list-1.php:185 elementor/fw-list-2.php:185
+#: elementor/fw-mix-1.php:185 elementor/fw-mix-2.php:185
+msgid "Select a type for quick filters for displaying in the block header."
+msgstr ""
+
+#: elementor/ct-classic.php:193 elementor/ct-grid-1.php:193
+#: elementor/ct-grid-2.php:193 elementor/ct-list.php:193
+#: elementor/fw-grid-1.php:193 elementor/fw-grid-2.php:193
+#: elementor/fw-grid-3.php:193 elementor/fw-grid-4.php:193
+#: elementor/fw-list-1.php:193 elementor/fw-list-2.php:193
+#: elementor/fw-mix-1.php:193 elementor/fw-mix-2.php:193
+msgid "Filter Data"
+msgstr ""
+
+#: elementor/ct-classic.php:195 elementor/ct-grid-1.php:195
+#: elementor/ct-grid-2.php:195 elementor/ct-list.php:195
+#: elementor/fw-grid-1.php:195 elementor/fw-grid-2.php:195
+#: elementor/fw-grid-3.php:195 elementor/fw-grid-4.php:195
+#: elementor/fw-list-1.php:195 elementor/fw-list-2.php:195
+#: elementor/fw-mix-1.php:195 elementor/fw-mix-2.php:195
+msgid ""
+"Input the IDs for your quick filters, depending on the type you choose: "
+"Category Ids or Tags. separated by commas (for example: 1,2,3)"
+msgstr ""
+
+#: elementor/ct-classic.php:202 elementor/ct-grid-1.php:202
+#: elementor/ct-grid-2.php:202 elementor/ct-list.php:202
+#: elementor/fw-grid-1.php:202 elementor/fw-grid-2.php:202
+#: elementor/fw-grid-3.php:202 elementor/fw-grid-4.php:202
+#: elementor/fw-list-1.php:202 elementor/fw-list-2.php:202
+#: elementor/fw-mix-1.php:202 elementor/fw-mix-2.php:202
+msgid "Filter Default Label"
+msgstr ""
+
+#: elementor/ct-classic.php:204 elementor/ct-grid-1.php:204
+#: elementor/ct-grid-2.php:204 elementor/ct-list.php:204
+#: elementor/fw-grid-1.php:204 elementor/fw-grid-2.php:204
+#: elementor/fw-grid-3.php:204 elementor/fw-grid-4.php:204
+#: elementor/fw-list-1.php:204 elementor/fw-list-2.php:204
+#: elementor/fw-mix-1.php:204 elementor/fw-mix-2.php:204
+msgid "Input text for default filter label."
+msgstr ""
+
+#: elementor/ct-classic.php:205 elementor/ct-grid-1.php:205
+#: elementor/ct-grid-2.php:205 elementor/ct-list.php:205
+#: elementor/fw-grid-1.php:205 elementor/fw-grid-2.php:205
+#: elementor/fw-grid-3.php:205 elementor/fw-grid-4.php:205
+#: elementor/fw-list-1.php:205 elementor/fw-list-2.php:205
+#: elementor/fw-mix-1.php:205 elementor/fw-mix-2.php:205
+msgid "All"
+msgstr ""
+
+#: elementor/ct-classic.php:212 elementor/ct-grid-1.php:212
+#: elementor/ct-grid-2.php:212 elementor/ct-list.php:212
+#: elementor/ct-masonry-1.php:184 elementor/fw-feat-8.php:203
+#: elementor/fw-grid-1.php:212 elementor/fw-grid-2.php:212
+#: elementor/fw-grid-3.php:212 elementor/fw-grid-4.php:212
+#: elementor/fw-list-1.php:212 elementor/fw-list-2.php:212
+#: elementor/fw-masonry-1.php:184 elementor/fw-mix-1.php:212
+#: elementor/fw-mix-2.php:212
+msgid "Block Pagination"
+msgstr ""
+
+#: elementor/ct-classic.php:220 elementor/ct-grid-1.php:220
+#: elementor/ct-grid-2.php:220 elementor/ct-list.php:220
+#: elementor/ct-masonry-1.php:192 elementor/fw-feat-8.php:211
+#: elementor/fw-grid-1.php:220 elementor/fw-grid-2.php:220
+#: elementor/fw-grid-3.php:220 elementor/fw-grid-4.php:220
+#: elementor/fw-list-1.php:220 elementor/fw-list-2.php:220
+#: elementor/fw-masonry-1.php:192 elementor/fw-mix-1.php:220
+#: elementor/fw-mix-2.php:220
+msgid "Pagination"
+msgstr ""
+
+#: elementor/ct-classic.php:222 elementor/ct-grid-1.php:222
+#: elementor/ct-grid-2.php:222 elementor/ct-list.php:222
+#: elementor/ct-masonry-1.php:194 elementor/fw-feat-8.php:213
+#: elementor/fw-grid-1.php:222 elementor/fw-grid-2.php:222
+#: elementor/fw-grid-3.php:222 elementor/fw-grid-4.php:222
+#: elementor/fw-list-1.php:222 elementor/fw-list-2.php:222
+#: elementor/fw-masonry-1.php:194 elementor/fw-mix-1.php:222
+#: elementor/fw-mix-2.php:222
+msgid "Select ajax pagination for this block, default is disable."
+msgstr ""
+
+#: elementor/ct-classic.php:231 elementor/ct-grid-1.php:310
+#: elementor/ct-grid-2.php:310 elementor/ct-list.php:310
+#: elementor/ct-masonry-1.php:282 elementor/fw-banner.php:207
+#: elementor/fw-feat-3.php:185 elementor/fw-grid-1.php:310
+#: elementor/fw-grid-2.php:310 elementor/fw-grid-3.php:231
+#: elementor/fw-grid-4.php:231 elementor/fw-list-1.php:311
+#: elementor/fw-list-2.php:310 elementor/fw-masonry-1.php:282
+#: elementor/fw-mix-1.php:231 elementor/fw-mix-2.php:231
+#: elementor/fw-newsletter.php:82 elementor/fw-search.php:72
+msgid "Style"
+msgstr ""
+
+#: elementor/ct-classic.php:251 elementor/ct-grid-1.php:231
+#: elementor/ct-grid-2.php:231 elementor/ct-list.php:231
+#: elementor/ct-masonry-1.php:203 elementor/fw-grid-1.php:231
+#: elementor/fw-grid-2.php:231 elementor/fw-list-1.php:232
+#: elementor/fw-list-2.php:231 elementor/fw-masonry-1.php:203
+msgid "Advertising"
+msgstr ""
+
+#: elementor/ct-classic.php:259 elementor/ct-grid-1.php:239
+#: elementor/ct-grid-2.php:239 elementor/ct-list.php:239
+#: elementor/ct-masonry-1.php:211 elementor/fw-grid-1.php:239
+#: elementor/fw-grid-2.php:239 elementor/fw-list-1.php:240
+#: elementor/fw-list-2.php:239 elementor/fw-masonry-1.php:211
+msgid "In-feed Advertising"
+msgstr ""
+
+#: elementor/ct-classic.php:261 elementor/ct-grid-1.php:241
+#: elementor/ct-grid-2.php:241 elementor/ct-list.php:241
+#: elementor/ct-masonry-1.php:213 elementor/fw-grid-1.php:241
+#: elementor/fw-grid-2.php:241 elementor/fw-list-1.php:242
+#: elementor/fw-list-2.php:241 elementor/fw-masonry-1.php:213
+msgid ""
+"Select in-feed adverts for this block. This feature is not compatible "
+"with ajax pagination in some cases."
+msgstr ""
+
+#: elementor/ct-classic.php:269 elementor/ct-grid-1.php:249
+#: elementor/ct-grid-2.php:249 elementor/ct-list.php:249
+#: elementor/ct-masonry-1.php:221 elementor/fw-grid-1.php:249
+#: elementor/fw-grid-2.php:249 elementor/fw-list-1.php:250
+#: elementor/fw-list-2.php:249 elementor/fw-masonry-1.php:221
+msgid "In-feed Ad Code"
+msgstr ""
+
+#: elementor/ct-classic.php:271 elementor/ct-grid-1.php:251
+#: elementor/ct-grid-2.php:251 elementor/ct-list.php:251
+#: elementor/ct-masonry-1.php:223 elementor/fw-grid-1.php:251
+#: elementor/fw-grid-2.php:251 elementor/fw-list-1.php:252
+#: elementor/fw-list-2.php:251 elementor/fw-masonry-1.php:223
+msgid "Input your in-feed Adsense or your script code."
+msgstr ""
+
+#: elementor/ct-classic.php:279 elementor/ct-grid-1.php:259
+#: elementor/ct-grid-2.php:259 elementor/ct-list.php:259
+#: elementor/ct-masonry-1.php:231 elementor/fw-grid-1.php:259
+#: elementor/fw-grid-2.php:259 elementor/fw-list-1.php:260
+#: elementor/fw-list-2.php:259 elementor/fw-masonry-1.php:231
+msgid "In-feed Ad Image"
+msgstr ""
+
+#: elementor/ct-classic.php:281 elementor/ct-grid-1.php:261
+#: elementor/ct-grid-2.php:261 elementor/ct-list.php:261
+#: elementor/ct-masonry-1.php:233 elementor/fw-grid-1.php:261
+#: elementor/fw-grid-2.php:261 elementor/fw-list-1.php:262
+#: elementor/fw-list-2.php:261 elementor/fw-masonry-1.php:233
+msgid "Input your advert image URL (attachment URL)."
+msgstr ""
+
+#: elementor/ct-classic.php:289 elementor/ct-grid-1.php:269
+#: elementor/ct-grid-2.php:269 elementor/ct-list.php:269
+#: elementor/ct-masonry-1.php:241 elementor/fw-grid-1.php:269
+#: elementor/fw-grid-2.php:269 elementor/fw-list-1.php:270
+#: elementor/fw-list-2.php:269 elementor/fw-masonry-1.php:241
+msgid "In-feed Ad Destination"
+msgstr ""
+
+#: elementor/ct-classic.php:291 elementor/ct-grid-1.php:271
+#: elementor/ct-grid-2.php:271 elementor/ct-list.php:271
+#: elementor/ct-masonry-1.php:243 elementor/fw-grid-1.php:271
+#: elementor/fw-grid-2.php:271 elementor/fw-list-1.php:272
+#: elementor/fw-list-2.php:271 elementor/fw-masonry-1.php:243
+msgid "Input destination URL for your advert."
+msgstr ""
+
+#: elementor/ct-classic.php:299 elementor/ct-grid-1.php:279
+#: elementor/ct-grid-2.php:279 elementor/ct-list.php:279
+#: elementor/ct-masonry-1.php:251 elementor/fw-grid-1.php:279
+#: elementor/fw-grid-2.php:279 elementor/fw-list-1.php:280
+#: elementor/fw-list-2.php:279 elementor/fw-masonry-1.php:251
+msgid "In-feed Ad Description"
+msgstr ""
+
+#: elementor/ct-classic.php:301 elementor/ct-grid-1.php:281
+#: elementor/ct-grid-2.php:281 elementor/ct-list.php:281
+#: elementor/ct-masonry-1.php:253 elementor/fw-grid-1.php:281
+#: elementor/fw-grid-2.php:281 elementor/fw-list-1.php:282
+#: elementor/fw-list-2.php:281 elementor/fw-masonry-1.php:253
+msgid "Small description to show at top of adverts."
+msgstr ""
+
+#: elementor/ct-classic.php:302 elementor/ct-grid-1.php:282
+#: elementor/ct-grid-2.php:282 elementor/ct-list.php:282
+#: elementor/ct-masonry-1.php:254 elementor/fw-grid-1.php:282
+#: elementor/fw-grid-2.php:282 elementor/fw-list-1.php:283
+#: elementor/fw-list-2.php:282 elementor/fw-masonry-1.php:254
+#: widgets/advertising.php:76
+msgid "- Advertisement -"
+msgstr ""
+
+#: elementor/ct-classic.php:309 elementor/ct-grid-1.php:289
+#: elementor/ct-grid-2.php:289 elementor/ct-list.php:289
+#: elementor/ct-masonry-1.php:261 elementor/fw-grid-1.php:289
+#: elementor/fw-grid-2.php:289 elementor/fw-list-1.php:290
+#: elementor/fw-list-2.php:289 elementor/fw-masonry-1.php:261
+msgid "Position 1"
+msgstr ""
+
+#: elementor/ct-classic.php:311 elementor/ct-classic.php:321
+#: elementor/ct-grid-1.php:291 elementor/ct-grid-1.php:301
+#: elementor/ct-grid-2.php:291 elementor/ct-grid-2.php:301
+#: elementor/ct-list.php:291 elementor/ct-list.php:301
+#: elementor/ct-masonry-1.php:263 elementor/ct-masonry-1.php:273
+#: elementor/fw-grid-1.php:291 elementor/fw-grid-1.php:301
+#: elementor/fw-grid-2.php:291 elementor/fw-grid-2.php:301
+#: elementor/fw-list-1.php:292 elementor/fw-list-1.php:302
+#: elementor/fw-list-2.php:291 elementor/fw-list-2.php:301
+#: elementor/fw-masonry-1.php:263 elementor/fw-masonry-1.php:273
+msgid ""
+"Display advert before the article X (smaller than posts per page value), "
+"allow integer number, leave blank if you want to disable this position."
+msgstr ""
+
+#: elementor/ct-classic.php:319 elementor/ct-grid-1.php:299
+#: elementor/ct-grid-2.php:299 elementor/ct-list.php:299
+#: elementor/ct-masonry-1.php:271 elementor/fw-grid-1.php:299
+#: elementor/fw-grid-2.php:299 elementor/fw-list-1.php:300
+#: elementor/fw-list-2.php:299 elementor/fw-masonry-1.php:271
+msgid "Position 2"
+msgstr ""
+
+#: elementor/ct-grid-1.php:19
+msgid "Pixwell - Content Grid 1 (2 Cols)"
+msgstr ""
+
+#: elementor/ct-grid-2.php:19
+msgid "Pixwell - Content Grid 2 (3 Cols)"
+msgstr ""
+
+#: elementor/ct-list.php:19
+msgid "Pixwell - Content List"
+msgstr ""
+
+#: elementor/ct-masonry-1.php:19
+msgid "Pixwell - Content Masonry 1"
+msgstr ""
+
+#: elementor/ct-masonry-1.php:291
+msgid "1st Classic"
+msgstr ""
+
+#: elementor/ct-masonry-1.php:293
+msgid ""
+"Enable or disable 1st classic (centered) layout for this this block."
+msgstr ""
+
+#: elementor/ct-masonry-1.php:296 elementor/fw-feat-8.php:194
+#: elementor/fw-grid-4.php:254 rb-gallery/core.php:64
+msgid "Enable"
+msgstr ""
+
+#: elementor/fw-banner.php:19
+msgid "Pixwell - Ruby Banner (Wrapper)"
+msgstr ""
+
+#: elementor/fw-banner.php:42
+msgid "---- SECTION 1: Section Title"
+msgstr ""
+
+#: elementor/fw-banner.php:44
+msgid "Input title for section 1."
+msgstr ""
+
+#: elementor/fw-banner.php:51 elementor/fw-banner.php:94
+#: elementor/fw-banner.php:135
+msgid "Destination URL"
+msgstr ""
+
+#: elementor/fw-banner.php:53
+msgid "Input destination URL for section 1."
+msgstr ""
+
+#: elementor/fw-banner.php:60 elementor/fw-banner.php:103
+#: elementor/fw-banner.php:144
+msgid "Attachment Image"
+msgstr ""
+
+#: elementor/fw-banner.php:62
+msgid "Input attachment Image URL for section 1."
+msgstr ""
+
+#: elementor/fw-banner.php:70 elementor/fw-banner.php:112
+#: elementor/fw-banner.php:154
+msgid "Open New Tab"
+msgstr ""
+
+#: elementor/fw-banner.php:72 elementor/fw-banner.php:114
+#: elementor/fw-banner.php:156
+msgid "Enable or disable open in a new tab."
+msgstr ""
+
+#: elementor/fw-banner.php:74 elementor/fw-banner.php:116
+#: elementor/fw-banner.php:158
+msgid "New Tab"
+msgstr ""
+
+#: elementor/fw-banner.php:75 elementor/fw-banner.php:117
+#: elementor/fw-banner.php:159
+msgid "Self Window"
+msgstr ""
+
+#: elementor/fw-banner.php:84
+msgid "---- SECTION 2: Section Title"
+msgstr ""
+
+#: elementor/fw-banner.php:86
+msgid "Input title for section 2."
+msgstr ""
+
+#: elementor/fw-banner.php:96
+msgid "Input destination URL for section 2."
+msgstr ""
+
+#: elementor/fw-banner.php:105
+msgid "Input attachment Image URL for section 2."
+msgstr ""
+
+#: elementor/fw-banner.php:126
+msgid "---- SECTION 3: Section Title"
+msgstr ""
+
+#: elementor/fw-banner.php:128
+msgid "Input title for section 3."
+msgstr ""
+
+#: elementor/fw-banner.php:137
+msgid "Input destination URL for section 3."
+msgstr ""
+
+#: elementor/fw-banner.php:146
+msgid "Input attachment Image URL for section 3."
+msgstr ""
+
+#: elementor/fw-feat-1.php:19
+msgid "Pixwell - Grid (Wrapper)"
+msgstr ""
+
+#: elementor/fw-feat-10.php:19 elementor/fw-feat-3.php:19
+msgid "Pixwell - Carousel (Wrapper)"
+msgstr ""
+
+#: elementor/fw-feat-11.php:19
+msgid "Pixwell - Mix Grid (Wrapper)"
+msgstr ""
+
+#: elementor/fw-feat-12.php:19
+msgid "Pixwell - Food Carousel (Stretched)"
+msgstr ""
+
+#: elementor/fw-feat-13.php:18
+msgid "Pixwell - Gadgets Slider (Wrapper)"
+msgstr ""
+
+#: elementor/fw-feat-13.php:137 elementor/fw-feat-14.php:139
+#: elementor/fw-feat-15.php:138
+msgid ""
+"Select number of posts per page (total posts to show). Maximum value is "
+"6."
+msgstr ""
+
+#: elementor/fw-feat-14.php:19
+msgid "Pixwell - Deal Slider (Wrapper)"
+msgstr ""
+
+#: elementor/fw-feat-15.php:18
+msgid "Pixwell - Decor Slider (Stretched)"
+msgstr ""
+
+#: elementor/fw-feat-2.php:19
+msgid "Pixwell - FullWide Grid (Stretched)"
+msgstr ""
+
+#: elementor/fw-feat-4.php:19
+msgid "Pixwell - FullWide Slider (Stretched)"
+msgstr ""
+
+#: elementor/fw-feat-5.php:19
+msgid "Pixwell - Slider (Wrapper)"
+msgstr ""
+
+#: elementor/fw-feat-6.php:19
+msgid "Pixwell - FullWide Overlay (Stretched)"
+msgstr ""
+
+#: elementor/fw-feat-7.php:19
+msgid "Pixwell - LifeStyle Carousel (Wrapper)"
+msgstr ""
+
+#: elementor/fw-feat-8.php:19
+msgid "Pixwell - Photography Grid (Stretched)"
+msgstr ""
+
+#: elementor/fw-feat-8.php:146
+msgid "Left About Section"
+msgstr ""
+
+#: elementor/fw-feat-8.php:153
+msgid "About Section - Header Logo"
+msgstr ""
+
+#: elementor/fw-feat-8.php:155
+msgid "Input your brand logo attachment image URL (.jpg, .png at the end)."
+msgstr ""
+
+#: elementor/fw-feat-8.php:162
+msgid "About Section - Header Title"
+msgstr ""
+
+#: elementor/fw-feat-8.php:164
+msgid "Input your about header title."
+msgstr ""
+
+#: elementor/fw-feat-8.php:165
+msgid "Hello, I am Ruby!"
+msgstr ""
+
+#: elementor/fw-feat-8.php:171
+msgid "About Section - Description"
+msgstr ""
+
+#: elementor/fw-feat-8.php:173
+msgid ""
+"Input your short biographical summary or description you want to show."
+msgstr ""
+
+#: elementor/fw-feat-8.php:180
+msgid "About Section - Signature Image"
+msgstr ""
+
+#: elementor/fw-feat-8.php:182
+msgid "Input your signature attachment image URL (.jpg, .png at the end)."
+msgstr ""
+
+#: elementor/fw-feat-8.php:189
+msgid "Site Social Profile Bar"
+msgstr ""
+
+#: elementor/fw-feat-8.php:191
+msgid "Enable or disable the site social profile bar in this section."
+msgstr ""
+
+#: elementor/fw-feat-9.php:19
+msgid "Pixwell - Baby Carousel (Stretched)"
+msgstr ""
+
+#: elementor/fw-grid-1.php:19
+msgid "Pixwell - FullWidth Grid 1 (3 cols)"
+msgstr ""
+
+#: elementor/fw-grid-2.php:19
+msgid "Pixwell - FullWidth Grid 2 (4 cols)"
+msgstr ""
+
+#: elementor/fw-grid-3.php:19
+msgid "Pixwell - FullWidth Grid 3 (2 cols)"
+msgstr ""
+
+#: elementor/fw-grid-4.php:19
+msgid "Pixwell - FullWidth Grid 4 (5 cols)"
+msgstr ""
+
+#: elementor/fw-grid-4.php:249
+msgid "Popular Style"
+msgstr ""
+
+#: elementor/fw-grid-4.php:251
+msgid ""
+"Enable or disable popular style (post number counter) for this block "
+"layout."
+msgstr ""
+
+#: elementor/fw-list-1.php:19
+msgid "Pixwell - FullWidth List 1"
+msgstr ""
+
+#: elementor/fw-list-2.php:19
+msgid "Pixwell - FullWidth List 2"
+msgstr ""
+
+#: elementor/fw-masonry-1.php:19
+msgid "Pixwell - FullWidth Masonry Grid 1"
+msgstr ""
+
+#: elementor/fw-mix-1.php:19
+msgid "Pixwell - Mix 1 (FullWidth/Content)"
+msgstr ""
+
+#: elementor/fw-mix-2.php:19
+msgid "Pixwell - Mix 2 (FullWidth/Content)"
+msgstr ""
+
+#: elementor/fw-newsletter.php:19
+msgid "Pixwell - Ruby Newsletter"
+msgstr ""
+
+#: elementor/fw-newsletter.php:34
+msgid "Newsletter"
+msgstr ""
+
+#: elementor/fw-newsletter.php:45 widgets/newsletter.php:53
+msgid "Subscribe Newsletter"
+msgstr ""
+
+#: elementor/fw-newsletter.php:52
+msgid "Block Description"
+msgstr ""
+
+#: elementor/fw-newsletter.php:54
+msgid "Input a short description for this block."
+msgstr ""
+
+#: elementor/fw-newsletter.php:55 widgets/newsletter.php:54
+msgid "Get our latest news straight into your inbox"
+msgstr ""
+
+#: elementor/fw-newsletter.php:62
+msgid "Privacy Text"
+msgstr ""
+
+#: elementor/fw-newsletter.php:64
+msgid "Input your privacy text. Leave blank you would like to disable."
+msgstr ""
+
+#: elementor/fw-newsletter.php:72
+msgid "Submit Text"
+msgstr ""
+
+#: elementor/fw-newsletter.php:74
+msgid ""
+"Input the submit button text. The icon will display if you leave blank "
+"this option."
+msgstr ""
+
+#: elementor/fw-newsletter.php:89
+msgid "Block Layout"
+msgstr ""
+
+#: elementor/fw-newsletter.php:91
+msgid "Select the layout for this block."
+msgstr ""
+
+#: elementor/fw-newsletter.php:93
+msgid "-Default (Right Form)-"
+msgstr ""
+
+#: elementor/fw-newsletter.php:94
+msgid "Style 2 (Bottom Form)"
+msgstr ""
+
+#: elementor/fw-search.php:19
+msgid "Pixwell - Search Box"
+msgstr ""
+
+#: elementor/fw-search.php:34
+msgid "Search Box"
+msgstr ""
+
+#: elementor/fw-search.php:42
+msgid "Search Header"
+msgstr ""
+
+#: elementor/fw-search.php:44
+msgid "Input the header for this search box."
+msgstr ""
+
+#: elementor/fw-search.php:45
+msgid "How we can help?"
+msgstr ""
+
+#: elementor/fw-search.php:52
+msgid "Search Description"
+msgstr ""
+
+#: elementor/fw-search.php:54
+msgid "Input a short description for this search box."
+msgstr ""
+
+#: elementor/fw-search.php:62
+msgid "Placeholder"
+msgstr ""
+
+#: elementor/fw-search.php:64
+msgid "Input a placeholder text for this search box."
+msgstr ""
+
+#: elementor/fw-search.php:65
+msgid "Input your keyword(s)..."
+msgstr ""
+
+#: elementor/fw-search.php:79
+msgid "Form Style"
+msgstr ""
+
+#: elementor/fw-search.php:81
+msgid "Select style for the search form."
+msgstr ""
+
+#: elementor/fw-search.php:83
+msgid "Border (Transparent Background)"
+msgstr ""
+
+#: elementor/fw-search.php:84
+msgid "Background"
+msgstr ""
+
+#: elementor/fw-search.php:92
+msgid "Form Background Color"
+msgstr ""
+
+#: elementor/fw-search.php:94
+msgid ""
+"Select background color for this search form, this option will apply to "
+"form style: Background."
+msgstr ""
+
+#: elementor/fw-search.php:102
+msgid "Form Text Color"
+msgstr ""
+
+#: elementor/fw-search.php:104
+msgid ""
+"Select text color for this search form, this option will apply to form "
+"style: Background."
+msgstr ""
+
+#: elementor/fw-search.php:111
+msgid "Form Border Radius"
+msgstr ""
+
+#: elementor/fw-search.php:113
+msgid "Select border radius for this search form (in px)."
+msgstr ""
+
+#: includes/actions.php:182
+msgid "Your Job Name"
+msgstr ""
+
+#: includes/actions.php:183
+msgid "Author Box Background"
+msgstr ""
+
+#: includes/actions.php:183
+msgid "(Input attachment Image URL)"
+msgstr ""
+
+#: includes/actions.php:184
+msgid "Facebook profile URL"
+msgstr ""
+
+#: includes/actions.php:185
+msgid "Twitter profile URL"
+msgstr ""
+
+#: includes/actions.php:186
+msgid "Instagram profile URL"
+msgstr ""
+
+#: includes/actions.php:187
+msgid "Pinterest profile URL"
+msgstr ""
+
+#: includes/actions.php:188
+msgid "LinkedIn profile URL"
+msgstr ""
+
+#: includes/actions.php:189
+msgid "Tumblr profile URL"
+msgstr ""
+
+#: includes/actions.php:190
+msgid "Flickr profile URL"
+msgstr ""
+
+#: includes/actions.php:191
+msgid "Skype profile URL"
+msgstr ""
+
+#: includes/actions.php:192
+msgid "Snapchat profile URL"
+msgstr ""
+
+#: includes/actions.php:193
+msgid "Myspace profile URL"
+msgstr ""
+
+#: includes/actions.php:194
+msgid "Youtube profile URL"
+msgstr ""
+
+#: includes/actions.php:195
+msgid "Bloglovin profile URL"
+msgstr ""
+
+#: includes/actions.php:196
+msgid "Digg profile URL"
+msgstr ""
+
+#: includes/actions.php:197
+msgid "Dribbble profile URL"
+msgstr ""
+
+#: includes/actions.php:198
+msgid "Soundcloud profile URL"
+msgstr ""
+
+#: includes/actions.php:199
+msgid "Vimeo profile URL"
+msgstr ""
+
+#: includes/actions.php:200
+msgid "Reddit profile URL"
+msgstr ""
+
+#: includes/actions.php:201
+msgid "Vkontakte profile URL"
+msgstr ""
+
+#: includes/actions.php:202
+msgid "Telegram profile URL"
+msgstr ""
+
+#: includes/actions.php:203
+msgid "Whatsapp profile URL"
+msgstr ""
+
+#: includes/actions.php:204
+msgid "Rss"
+msgstr ""
+
+#: includes/core.php:79
+msgid ""
+"I found this article interesting and thought of sharing it with you. "
+"Check it out:"
+msgstr ""
+
+#: includes/core.php:80
+msgid "Read it Later"
+msgstr ""
+
+#: includes/core.php:81
+msgid "Please add some posts to see your added bookmarks."
+msgstr ""
+
+#: includes/core.php:82
+msgid "Facebook"
+msgstr ""
+
+#: includes/core.php:83
+msgid "fans"
+msgstr ""
+
+#: includes/core.php:84
+msgid "like"
+msgstr ""
+
+#: includes/core.php:85
+msgid "Twitter"
+msgstr ""
+
+#: includes/core.php:86
+msgid "followers"
+msgstr ""
+
+#: includes/core.php:87
+msgid "follow"
+msgstr ""
+
+#: includes/core.php:88
+msgid "Pinterest"
+msgstr ""
+
+#: includes/core.php:89
+msgid "pin"
+msgstr ""
+
+#: includes/core.php:90
+msgid "Love"
+msgstr ""
+
+#: includes/core.php:91
+msgid "Sad"
+msgstr ""
+
+#: includes/core.php:92
+msgid "Happy"
+msgstr ""
+
+#: includes/core.php:93
+msgid "Sleepy"
+msgstr ""
+
+#: includes/core.php:94
+msgid "Angry"
+msgstr ""
+
+#: includes/core.php:95
+msgid "Dead"
+msgstr ""
+
+#: includes/core.php:96
+msgid "Wink"
+msgstr ""
+
+#: includes/core.php:97
+msgid "Page"
+msgstr ""
+
+#: includes/core.php:407
+msgid "M"
+msgstr ""
+
+#: includes/core.php:409
+msgid "k"
+msgstr ""
+
+#: includes/extras.php:63
+msgid "Confirmed Cases"
+msgstr ""
+
+#: includes/extras.php:64
+msgid "Deaths Cases"
+msgstr ""
+
+#: includes/social.php:323
+msgid "empty Instagram token"
+msgstr ""
+
+#: includes/social.php:336
+msgid "token error."
+msgstr ""
+
+#: includes/social.php:351
+msgid "Token expired or no pictures."
+msgstr ""
+
+#: includes/social.php:360 includes/social.php:502
+msgid "instagram image"
+msgstr ""
+
+#: includes/social.php:457
+msgid "Unable to connect to Instagram."
+msgstr ""
+
+#: includes/social.php:465 includes/social.php:473 includes/social.php:477
+msgid "invalid data."
+msgstr ""
+
+#: rb-gallery/core.php:10
+msgid "Gallery Options"
+msgstr ""
+
+#: rb-gallery/core.php:16
+msgid "Upload Gallery"
+msgstr ""
+
+#: rb-gallery/core.php:17
+msgid ""
+"Upload your images for this gallery, The gallery popup will get the "
+"title, caption and description of each image to display."
+msgstr ""
+
+#: rb-gallery/core.php:23
+msgid "Columns of Grid"
+msgstr ""
+
+#: rb-gallery/core.php:24
+msgid "Select total columns to display."
+msgstr ""
+
+#: rb-gallery/core.php:27
+msgid "2 Columns"
+msgstr ""
+
+#: rb-gallery/core.php:28
+msgid "3 Columns"
+msgstr ""
+
+#: rb-gallery/core.php:29
+msgid "4 Columns"
+msgstr ""
+
+#: rb-gallery/core.php:30
+msgid "5 Columns"
+msgstr ""
+
+#: rb-gallery/core.php:36
+msgid "Gallery Style"
+msgstr ""
+
+#: rb-gallery/core.php:37
+msgid "Select the gallery style."
+msgstr ""
+
+#: rb-gallery/core.php:40
+msgid "Light Style"
+msgstr ""
+
+#: rb-gallery/core.php:41
+msgid "Dark Style"
+msgstr ""
+
+#: rb-gallery/core.php:47
+msgid "Gallery Width"
+msgstr ""
+
+#: rb-gallery/core.php:48
+msgid "Select max-width for gallery."
+msgstr ""
+
+#: rb-gallery/core.php:51
+msgid "- Wrapper - "
+msgstr ""
+
+#: rb-gallery/core.php:52
+msgid "Full Wide (100%)"
+msgstr ""
+
+#: rb-gallery/core.php:58
+msgid "Share on Socials"
+msgstr ""
+
+#: rb-gallery/core.php:59
+msgid "Display the sharing bar at the bottom of this gallery."
+msgstr ""
+
+#: rb-gallery/core.php:62
+msgid "- Default from Theme Options -"
+msgstr ""
+
+#: rb-gallery/core.php:63
+msgid "Disable"
+msgstr ""
+
+#: rb-gallery/rb-gallery.php:54
+msgid "gallery"
+msgstr ""
+
+#: rb-gallery/rb-gallery.php:60
+msgid "gallery-category"
+msgstr ""
+
+#: rb-gallery/rb-gallery.php:69 rb-gallery/rb-gallery.php:72
+msgid "Galleries"
+msgstr ""
+
+#: rb-gallery/rb-gallery.php:70
+msgid "All Galleries"
+msgstr ""
+
+#: rb-gallery/rb-gallery.php:71 rb-gallery/rb-gallery.php:75
+msgid "Add New Gallery"
+msgstr ""
+
+#: rb-gallery/rb-gallery.php:74
+msgid "New Gallery"
+msgstr ""
+
+#: rb-gallery/rb-gallery.php:76
+msgid "Edit Gallery"
+msgstr ""
+
+#: rb-gallery/rb-gallery.php:77
+msgid "No gallery item found."
+msgstr ""
+
+#: rb-gallery/rb-gallery.php:78
+msgid "No gallery item found in Trash."
+msgstr ""
+
+#: rb-gallery/rb-gallery.php:100 rb-gallery/rb-gallery.php:101
+msgid "Gallery Categories"
+msgstr ""
+
+#: rb-gallery/rb-gallery.php:102 rb-portfolio/rb-portfolio.php:94
+msgid "Category"
+msgstr ""
+
+#: rb-gallery/rb-gallery.php:103 rb-portfolio/rb-portfolio.php:95
+msgid "Search Categories"
+msgstr ""
+
+#: rb-gallery/rb-gallery.php:104 rb-portfolio/rb-portfolio.php:96
+#: widgets/sb-post.php:100
+msgid "All Categories"
+msgstr ""
+
+#: rb-gallery/rb-gallery.php:105 rb-portfolio/rb-portfolio.php:97
+msgid "Parent Category"
+msgstr ""
+
+#: rb-gallery/rb-gallery.php:106 rb-portfolio/rb-portfolio.php:98
+msgid "Parent Category:"
+msgstr ""
+
+#: rb-gallery/rb-gallery.php:107 rb-portfolio/rb-portfolio.php:99
+msgid "Edit Category"
+msgstr ""
+
+#: rb-gallery/rb-gallery.php:108 rb-portfolio/rb-portfolio.php:100
+msgid "Update Category"
+msgstr ""
+
+#: rb-gallery/rb-gallery.php:109 rb-portfolio/rb-portfolio.php:101
+msgid "Add New Category"
+msgstr ""
+
+#: rb-gallery/rb-gallery.php:110 rb-portfolio/rb-portfolio.php:102
+msgid "New Category Name"
+msgstr ""
+
+#: rb-portfolio/core.php:11
+msgid "Portfolio Options"
+msgstr ""
+
+#: rb-portfolio/core.php:17
+msgid "Upload Portfolio Gallery"
+msgstr ""
+
+#: rb-portfolio/core.php:18
+msgid ""
+"Upload images for this portfolio. This will show in the single portfolio."
+msgstr ""
+
+#: rb-portfolio/core.php:24
+msgid "Project Info"
+msgstr ""
+
+#: rb-portfolio/core.php:25
+msgid "Input project name information for this portfolio. Allow raw HTML"
+msgstr ""
+
+#: rb-portfolio/core.php:31
+msgid "Client Info"
+msgstr ""
+
+#: rb-portfolio/core.php:32
+msgid "Input client information for this portfolio. Allow raw HTML"
+msgstr ""
+
+#: rb-portfolio/core.php:38
+msgid "Service Info"
+msgstr ""
+
+#: rb-portfolio/core.php:39
+msgid "Input service information for this portfolio. Allow raw HTML"
+msgstr ""
+
+#: rb-portfolio/core.php:45
+msgid "Location Info"
+msgstr ""
+
+#: rb-portfolio/core.php:46
+msgid "Input location information for this portfolio. Allow raw HTML"
+msgstr ""
+
+#: rb-portfolio/rb-portfolio.php:51
+msgid "portfolio"
+msgstr ""
+
+#: rb-portfolio/rb-portfolio.php:57 rb-portfolio/rb-portfolio.php:88
+msgid "portfolio-category"
+msgstr ""
+
+#: rb-portfolio/rb-portfolio.php:66 rb-portfolio/rb-portfolio.php:68
+msgid "Portfolios"
+msgstr ""
+
+#: rb-portfolio/rb-portfolio.php:67
+msgid "All Portfolios"
+msgstr ""
+
+#: rb-portfolio/rb-portfolio.php:69
+msgid "Portfolio"
+msgstr ""
+
+#: rb-portfolio/rb-portfolio.php:70 rb-portfolio/rb-portfolio.php:72
+#: rb-portfolio/rb-portfolio.php:73
+msgid "Add New Portfolio"
+msgstr ""
+
+#: rb-portfolio/rb-portfolio.php:71
+msgid "New Portfolio"
+msgstr ""
+
+#: rb-portfolio/rb-portfolio.php:74
+msgid "Edit Portfolio"
+msgstr ""
+
+#: rb-portfolio/rb-portfolio.php:75
+msgid "No portfolio item found."
+msgstr ""
+
+#: rb-portfolio/rb-portfolio.php:76
+msgid "No portfolio item found in Trash."
+msgstr ""
+
+#: rb-portfolio/rb-portfolio.php:92 rb-portfolio/rb-portfolio.php:93
+msgid "Portfolio Categories"
+msgstr ""
+
+#: widgets/advertising.php:12
+msgid ""
+"Display your custom ads, your banner JS or Google Adsense code, Support "
+"Google Ads Responsive"
+msgstr ""
+
+#: widgets/advertising.php:14
+msgid "- Advertising Box -"
+msgstr ""
+
+#: widgets/advertising.php:88
+msgid "Small Title"
+msgstr ""
+
+#: widgets/advertising.php:92
+msgid "Image type - Destination Link"
+msgstr ""
+
+#: widgets/advertising.php:96
+msgid "Widget Background"
+msgstr ""
+
+#: widgets/advertising.php:100
+msgid "Image type - Image"
+msgstr ""
+
+#: widgets/advertising.php:104
+msgid "+Add Advert Image"
+msgstr ""
+
+#: widgets/advertising.php:105 widgets/banner.php:116 widgets/fw-mc.php:121
+#: widgets/newsletter.php:74
+msgid "Remove"
+msgstr ""
+
+#: widgets/advertising.php:109
+msgid "JS or Google AdSense Code"
+msgstr ""
+
+#: widgets/advertising.php:112
+msgid "Please leave empty Image type options if you use the script option."
+msgstr ""
+
+#: widgets/advertising.php:113
+msgid "Adsense Responsive"
+msgstr ""
+
+#: widgets/advertising.php:115
+msgid "Ad Size"
+msgstr ""
+
+#: widgets/advertising.php:117
+msgid "From the Script"
+msgstr ""
+
+#: widgets/advertising.php:118
+msgid "Custom Size (Settings Below)"
+msgstr ""
+
+#: widgets/advertising.php:122
+msgid "Ad Size Desktop"
+msgstr ""
+
+#: widgets/advertising.php:124
+msgid "Hide on Desktop"
+msgstr ""
+
+#: widgets/advertising.php:125 widgets/advertising.php:149
+#: widgets/advertising.php:172
+msgid "Leaderboard (728x90)"
+msgstr ""
+
+#: widgets/advertising.php:126 widgets/advertising.php:150
+#: widgets/advertising.php:173
+msgid "Banner (468x60)"
+msgstr ""
+
+#: widgets/advertising.php:127 widgets/advertising.php:151
+#: widgets/advertising.php:174
+msgid "Half banner (234x60)"
+msgstr ""
+
+#: widgets/advertising.php:128 widgets/advertising.php:152
+#: widgets/advertising.php:175
+msgid "Button (125x125)"
+msgstr ""
+
+#: widgets/advertising.php:129 widgets/advertising.php:153
+#: widgets/advertising.php:176
+msgid "Skyscraper (120x600)"
+msgstr ""
+
+#: widgets/advertising.php:130 widgets/advertising.php:154
+#: widgets/advertising.php:177
+msgid "Wide Skyscraper (160x600)"
+msgstr ""
+
+#: widgets/advertising.php:131 widgets/advertising.php:155
+#: widgets/advertising.php:178
+msgid "Small Rectangle (180x150)"
+msgstr ""
+
+#: widgets/advertising.php:132 widgets/advertising.php:156
+#: widgets/advertising.php:179
+msgid "Vertical Banner (120 x 240)"
+msgstr ""
+
+#: widgets/advertising.php:133 widgets/advertising.php:157
+#: widgets/advertising.php:180
+msgid "Small Square (200x200)"
+msgstr ""
+
+#: widgets/advertising.php:134 widgets/advertising.php:158
+#: widgets/advertising.php:181
+msgid "Square (250x250)"
+msgstr ""
+
+#: widgets/advertising.php:135 widgets/advertising.php:159
+#: widgets/advertising.php:182
+msgid "Medium Rectangle (300x250)"
+msgstr ""
+
+#: widgets/advertising.php:136 widgets/advertising.php:160
+#: widgets/advertising.php:183
+msgid "Large Rectangle (336x280)"
+msgstr ""
+
+#: widgets/advertising.php:137 widgets/advertising.php:161
+#: widgets/advertising.php:184
+msgid "Half Page (300x600)"
+msgstr ""
+
+#: widgets/advertising.php:138 widgets/advertising.php:162
+#: widgets/advertising.php:185
+msgid "Portrait (300x1050)"
+msgstr ""
+
+#: widgets/advertising.php:139 widgets/advertising.php:163
+#: widgets/advertising.php:186
+msgid "Mobile Banner (320x50)"
+msgstr ""
+
+#: widgets/advertising.php:140 widgets/advertising.php:164
+#: widgets/advertising.php:187
+msgid "Large Leaderboard (970x90)"
+msgstr ""
+
+#: widgets/advertising.php:141 widgets/advertising.php:165
+#: widgets/advertising.php:188
+msgid "Billboard (970x250)"
+msgstr ""
+
+#: widgets/advertising.php:146
+msgid "Ad Size Tablet (Screen width < 800px)"
+msgstr ""
+
+#: widgets/advertising.php:148
+msgid "Hide on Table"
+msgstr ""
+
+#: widgets/advertising.php:169
+msgid "Ad Size Mobile (Screen width < 500px )"
+msgstr ""
+
+#: widgets/advertising.php:171
+msgid "Hide on Mobile"
+msgstr ""
+
+#: widgets/banner.php:13
+msgid "[Sidebar Widget] Display banner with image background."
+msgstr ""
+
+#: widgets/banner.php:15
+msgid "- [Sidebar] Banner -"
+msgstr ""
+
+#: widgets/banner.php:99 widgets/header-strip.php:25
+#: widgets/header-strip.php:90
+msgid "Learn More"
+msgstr ""
+
+#: widgets/banner.php:103 widgets/fw-mc.php:92 widgets/newsletter.php:61
+#: widgets/sb-facebook.php:58
+msgid "Title"
+msgstr ""
+
+#: widgets/banner.php:107 widgets/fw-mc.php:96 widgets/newsletter.php:65
+msgid "Description"
+msgstr ""
+
+#: widgets/banner.php:111 widgets/newsletter.php:69
+msgid "Cover Image"
+msgstr ""
+
+#: widgets/banner.php:115 widgets/fw-mc.php:120
+msgid "+Add Background Image"
+msgstr ""
+
+#: widgets/banner.php:119 widgets/fw-mc.php:103
+msgid ""
+"Recommended added dark overlay or light overlay on the image to make the "
+"text can be easy to read."
+msgstr ""
+
+#: widgets/banner.php:121 widgets/fw-mc.php:105
+#: widgets/header-strip.php:106
+msgid "Text Color Style"
+msgstr ""
+
+#: widgets/banner.php:123 widgets/fw-mc.php:107
+#: widgets/header-strip.php:108
+msgid "Light Text"
+msgstr ""
+
+#: widgets/banner.php:124 widgets/fw-mc.php:108
+#: widgets/header-strip.php:109
+msgid "Dark Text"
+msgstr ""
+
+#: widgets/banner.php:128 widgets/header-strip.php:113
+msgid "Button URL"
+msgstr ""
+
+#: widgets/banner.php:132 widgets/header-strip.php:117
+msgid "Button Text"
+msgstr ""
+
+#: widgets/fw-instagram.php:13
+msgid "Display Instagram images grid layout in the FullWidth section."
+msgstr ""
+
+#: widgets/fw-instagram.php:15
+msgid "- [FullWidth] Instagram Grid -"
+msgstr ""
+
+#: widgets/fw-instagram.php:23
+msgid "<span>Follow @ Instagram</span><h6>Our Profile</h6>"
+msgstr ""
+
+#: widgets/fw-instagram.php:75 widgets/sb-instagram.php:48
+msgid "Something was wrong! Try to remove the widget and re-add again."
+msgstr ""
+
+#: widgets/fw-instagram.php:144
+msgid "<span>Follow @ Instagram</span><h6>Your Name</h6>"
+msgstr ""
+
+#: widgets/fw-instagram.php:157
+msgid "Header Intro (Allow Raw HTML):"
+msgstr ""
+
+#: widgets/fw-instagram.php:161
+msgid "User Link:"
+msgstr ""
+
+#: widgets/fw-instagram.php:165
+msgid "@Username or #Tag"
+msgstr ""
+
+#: widgets/fw-instagram.php:167 widgets/sb-instagram.php:125
+msgid ""
+"Input a username, tags (maximum is 12 images) or Instagram token. Leave "
+"blank the username form if you use Instagram token."
+msgstr ""
+
+#: widgets/fw-instagram.php:170
+msgid "or input Instagram Token"
+msgstr ""
+
+#: widgets/fw-instagram.php:174
+msgid "#Image Tags (only work with for Instagram Token)"
+msgstr ""
+
+#: widgets/fw-instagram.php:178
+msgid "Grid Layout"
+msgstr ""
+
+#: widgets/fw-instagram.php:180
+msgid "Wrapper Masonry"
+msgstr ""
+
+#: widgets/fw-instagram.php:181
+msgid "Wide Masonry"
+msgstr ""
+
+#: widgets/fw-instagram.php:182
+msgid "Default Grid"
+msgstr ""
+
+#: widgets/fw-instagram.php:185
+msgid "Below options will only apply to default grid layout."
+msgstr ""
+
+#: widgets/fw-instagram.php:187
+msgid "Default Grid - Total Images"
+msgstr ""
+
+#: widgets/fw-instagram.php:191
+msgid "Default Grid - Columns"
+msgstr ""
+
+#: widgets/fw-instagram.php:193
+msgid "5 columns"
+msgstr ""
+
+#: widgets/fw-instagram.php:194
+msgid "6 columns"
+msgstr ""
+
+#: widgets/fw-instagram.php:195
+msgid "7 columns"
+msgstr ""
+
+#: widgets/fw-instagram.php:196
+msgid "8 columns"
+msgstr ""
+
+#: widgets/fw-instagram.php:197
+msgid "9 columns"
+msgstr ""
+
+#: widgets/fw-instagram.php:201
+msgid "Default Grid - Wrapper"
+msgstr ""
+
+#: widgets/fw-instagram.php:203
+msgid "FullWidth"
+msgstr ""
+
+#: widgets/fw-instagram.php:204
+msgid "Has Wrapper"
+msgstr ""
+
+#: widgets/fw-mc.php:13
+msgid ""
+"[FullWidth Widget] Display Mailchimp sign-up form in full-width section."
+msgstr ""
+
+#: widgets/fw-mc.php:15
+msgid "- [FullWidth] Mailchimp Form -"
+msgstr ""
+
+#: widgets/fw-mc.php:83
+msgid "Subscribe to Our Newsletter"
+msgstr ""
+
+#: widgets/fw-mc.php:84
+msgid ""
+"Get the latest news, update and special offers delivered directly in "
+"your inbox."
+msgstr ""
+
+#: widgets/fw-mc.php:100
+msgid "Mailchimp Form Shortcode"
+msgstr ""
+
+#: widgets/fw-mc.php:112
+msgid "Background Color (Hex value)"
+msgstr ""
+
+#: widgets/fw-mc.php:116
+msgid "Background Image"
+msgstr ""
+
+#: widgets/header-strip.php:13
+msgid "[Top Site] Display banner header strip in the top of your website."
+msgstr ""
+
+#: widgets/header-strip.php:15
+msgid "- [Top Site] Header Strip -"
+msgstr ""
+
+#: widgets/header-strip.php:97
+msgid "Content (Allow HTML)"
+msgstr ""
+
+#: widgets/header-strip.php:101
+msgid "Background Color"
+msgstr ""
+
+#: widgets/header-strip.php:104
+msgid "Input the hex value ie: #333333"
+msgstr ""
+
+#: widgets/header-strip.php:121
+msgid "Button Color"
+msgstr ""
+
+#: widgets/header-strip.php:125
+msgid "Button Background Color"
+msgstr ""
+
+#: widgets/header-strip.php:129
+msgid "Expired Time"
+msgstr ""
+
+#: widgets/header-strip.php:131
+msgid "1 Day"
+msgstr ""
+
+#: widgets/header-strip.php:132
+msgid "2 Day"
+msgstr ""
+
+#: widgets/header-strip.php:133
+msgid "3 Days"
+msgstr ""
+
+#: widgets/header-strip.php:134
+msgid "1 Week"
+msgstr ""
+
+#: widgets/header-strip.php:135
+msgid "2 Weeks"
+msgstr ""
+
+#: widgets/header-strip.php:136
+msgid "1 Month"
+msgstr ""
+
+#: widgets/newsletter.php:12
+msgid "[Sidebar Widget] Display Ruby newsletter subscribe form."
+msgstr ""
+
+#: widgets/newsletter.php:14
+msgid "- [Sidebar] Ruby Newsletter -"
+msgstr ""
+
+#: widgets/newsletter.php:57
+msgid "SIGN UP"
+msgstr ""
+
+#: widgets/newsletter.php:73
+msgid "+Add Cover Image"
+msgstr ""
+
+#: widgets/newsletter.php:78
+msgid "Privacy text"
+msgstr ""
+
+#: widgets/newsletter.php:82
+msgid "Submit text"
+msgstr ""
+
+#: widgets/sb-address.php:12
+msgid ""
+"[Sidebar Widget] Display address information in the sidebar section."
+msgstr ""
+
+#: widgets/sb-address.php:14
+msgid "- [Sidebar] Address Info -"
+msgstr ""
+
+#: widgets/sb-address.php:86 widgets/sb-address.php:106
+msgid "Office Address"
+msgstr ""
+
+#: widgets/sb-address.php:88
+msgid "Phone Information"
+msgstr ""
+
+#: widgets/sb-address.php:96
+msgid "Allow HTML input."
+msgstr ""
+
+#: widgets/sb-address.php:98 widgets/sb-social-icon.php:181
+#: widgets/sb-youtube.php:59
+msgid "Title :"
+msgstr ""
+
+#: widgets/sb-address.php:102
+msgid "Address Title:"
+msgstr ""
+
+#: widgets/sb-address.php:110
+msgid "Phone/Tel Title:"
+msgstr ""
+
+#: widgets/sb-address.php:114
+msgid "Phone Number:"
+msgstr ""
+
+#: widgets/sb-address.php:118
+msgid "Tel Number:"
+msgstr ""
+
+#: widgets/sb-address.php:122
+msgid "Email Address:"
+msgstr ""
+
+#: widgets/sb-address.php:126
+msgid "Additional Title:"
+msgstr ""
+
+#: widgets/sb-address.php:130
+msgid "Additional Info"
+msgstr ""
+
+#: widgets/sb-facebook.php:12
+msgid "[Sidebar Widget] Display Facebook Like box in the sidebar."
+msgstr ""
+
+#: widgets/sb-facebook.php:14
+msgid "- [Sidebar] Facebook Like Box -"
+msgstr ""
+
+#: widgets/sb-facebook.php:55
+msgid "Find Us on Facebook"
+msgstr ""
+
+#: widgets/sb-facebook.php:62
+msgid "Fanpage Name (text without protocol HTTPS):"
+msgstr ""
+
+#: widgets/sb-flickr.php:12
+msgid "[Sidebar Widget] Display flickr grid images in the sidebar."
+msgstr ""
+
+#: widgets/sb-flickr.php:14
+msgid "- [Sidebar] Flickr Grid -"
+msgstr ""
+
+#: widgets/sb-flickr.php:47
+msgid "Configuration error or no pictures..."
+msgstr ""
+
+#: widgets/sb-flickr.php:69
+msgid "Flickr Gallery"
+msgstr ""
+
+#: widgets/sb-flickr.php:78 widgets/sb-instagram.php:119
+#: widgets/sb-tweet.php:88
+msgid "Title:"
+msgstr ""
+
+#: widgets/sb-flickr.php:82
+msgid "Flickr User ID:"
+msgstr ""
+
+#: widgets/sb-flickr.php:85
+msgid "Get Flickr Id"
+msgstr ""
+
+#: widgets/sb-flickr.php:87
+msgid "Limit Image Number:"
+msgstr ""
+
+#: widgets/sb-flickr.php:91
+msgid "Tags (optional, Separate tags with comma. e.g. tag1,tag2):"
+msgstr ""
+
+#: widgets/sb-flickr.php:95
+msgid "Number of total_cols:"
+msgstr ""
+
+#: widgets/sb-flickr.php:97 widgets/sb-instagram.php:142
+msgid "2 columns"
+msgstr ""
+
+#: widgets/sb-flickr.php:98 widgets/sb-instagram.php:143
+msgid "3 columns"
+msgstr ""
+
+#: widgets/sb-flickr.php:99 widgets/sb-instagram.php:144
+msgid "4 columns"
+msgstr ""
+
+#: widgets/sb-follower.php:11
+msgid "[Sidebar Widget] Display your social URL with total of followers"
+msgstr ""
+
+#: widgets/sb-follower.php:14
+msgid "- [SIDEBAR] - Social Follower -"
+msgstr ""
+
+#: widgets/sb-follower.php:137 widgets/sb-post.php:86
+msgid "Widget Title"
+msgstr ""
+
+#: widgets/sb-follower.php:141
+msgid "FanPage Name:"
+msgstr ""
+
+#: widgets/sb-follower.php:145
+msgid "Facebook App Token"
+msgstr ""
+
+#: widgets/sb-follower.php:149 widgets/sb-tweet.php:92
+msgid "Twitter Name:"
+msgstr ""
+
+#: widgets/sb-follower.php:153
+msgid "Twitter Consumer Key:"
+msgstr ""
+
+#: widgets/sb-follower.php:157
+msgid "Twitter Consumer Secret:"
+msgstr ""
+
+#: widgets/sb-follower.php:160
+msgid "Generate your Twitter App"
+msgstr ""
+
+#: widgets/sb-follower.php:162
+msgid "Pinterest Name:"
+msgstr ""
+
+#: widgets/sb-instagram.php:13
+msgid "[Sidebar Widget] Display Instagram grid images in the sidebar."
+msgstr ""
+
+#: widgets/sb-instagram.php:15
+msgid "- [Sidebar] Instagram Grid -"
+msgstr ""
+
+#: widgets/sb-instagram.php:107
+msgid "Instagram"
+msgstr ""
+
+#: widgets/sb-instagram.php:113
+msgid "Follow Us on @ Instagram"
+msgstr ""
+
+#: widgets/sb-instagram.php:123
+msgid "@Username or #Tag:"
+msgstr ""
+
+#: widgets/sb-instagram.php:128
+msgid "or input Instagram Token:"
+msgstr ""
+
+#: widgets/sb-instagram.php:132
+msgid "#Tag (this option only for Instagram Token):"
+msgstr ""
+
+#: widgets/sb-instagram.php:136
+msgid "Total Images:"
+msgstr ""
+
+#: widgets/sb-instagram.php:140
+msgid "Number of Columns:"
+msgstr ""
+
+#: widgets/sb-instagram.php:148
+msgid "Footer Description (Allow Raw HTMl):"
+msgstr ""
+
+#: widgets/sb-instagram.php:152
+msgid "Footer Link:"
+msgstr ""
+
+#: widgets/sb-post.php:12
+msgid ""
+"[Sidebar Widget] Display blog listings with custom query in the sidebar."
+msgstr ""
+
+#: widgets/sb-post.php:14
+msgid "- [Sidebar] Post Listing -"
+msgstr ""
+
+#: widgets/sb-post.php:74
+msgid "Latest Posts"
+msgstr ""
+
+#: widgets/sb-post.php:90
+msgid "Post Layout"
+msgstr ""
+
+#: widgets/sb-post.php:92
+msgid "Style 1 (List)"
+msgstr ""
+
+#: widgets/sb-post.php:93
+msgid "Style 2 (Grid)"
+msgstr ""
+
+#: widgets/sb-post.php:94
+msgid "Style 3 (List only Title)"
+msgstr ""
+
+#: widgets/sb-post.php:105
+msgid "Multiple Category Filter"
+msgstr ""
+
+#: widgets/sb-post.php:108
+msgid ""
+"Optional: Input category IDs, separated by comma (ie: 1,2). This option "
+"will override the category option."
+msgstr ""
+
+#: widgets/sb-post.php:110
+msgid "Post Tags"
+msgstr ""
+
+#: widgets/sb-post.php:113
+msgid ""
+" (Optional: Input post tags IDs, separate tags with comma (ie: tag1,tag2)"
+msgstr ""
+
+#: widgets/sb-post.php:115
+msgid "Post Format Filter"
+msgstr ""
+
+#: widgets/sb-post.php:125
+msgid "Total Posts"
+msgstr ""
+
+#: widgets/sb-post.php:133
+msgid "Order By"
+msgstr ""
+
+#: widgets/sb-post.php:144
+msgid "Random Post"
+msgstr ""
+
+#: widgets/sb-post.php:146
+msgid "alphabetical A->Z Posts"
+msgstr ""
+
+#: widgets/sb-post.php:147
+msgid "alphabetical Z->A Posts"
+msgstr ""
+
+#: widgets/sb-social-icon.php:12
+msgid ""
+"[Sidebar Widget] Display about me information with social icons in the "
+"sidebar section."
+msgstr ""
+
+#: widgets/sb-social-icon.php:14
+msgid "- [Sidebar] Social/About -"
+msgstr ""
+
+#: widgets/sb-social-icon.php:152
+msgid "Find Us on Socials"
+msgstr ""
+
+#: widgets/sb-social-icon.php:185
+msgid "Short biography (allow HTML):"
+msgstr ""
+
+#: widgets/sb-social-icon.php:189
+msgid "Align Content"
+msgstr ""
+
+#: widgets/sb-social-icon.php:191
+msgid "Left"
+msgstr ""
+
+#: widgets/sb-social-icon.php:192
+msgid "Center"
+msgstr ""
+
+#: widgets/sb-social-icon.php:196
+msgid "Get Social Profiles form:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:198
+msgid "Theme Options"
+msgstr ""
+
+#: widgets/sb-social-icon.php:199
+msgid "Use Custom"
+msgstr ""
+
+#: widgets/sb-social-icon.php:202
+msgid ""
+"To set social link from Theme Options, Navigate to: <strong>Theme "
+"Options -> Site Social Profiles</strong>"
+msgstr ""
+
+#: widgets/sb-social-icon.php:204
+msgid "Open Social link in new tab"
+msgstr ""
+
+#: widgets/sb-social-icon.php:208
+msgid "Facebook URL:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:212
+msgid "Twitter URL:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:216
+msgid "Instagram URL:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:220
+msgid "Pinterest URL:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:224
+msgid "Linkedin URL:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:228
+msgid "Tumblr URL:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:232
+msgid "Flickr URL:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:236
+msgid "Skype URL:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:240
+msgid "Snapchat URL:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:244
+msgid "Myspace URL:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:248
+msgid "Youtube URL:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:252
+msgid "Bloglovin URL:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:256
+msgid "Digg URL:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:260
+msgid "Dribbble URL:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:264
+msgid "Soundcloud URL:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:268
+msgid "Vimeo URL:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:272
+msgid "Reddit URL:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:276
+msgid "VKontakte URL:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:280
+msgid "Telegram URL:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:284
+msgid "Whatsapp URL:"
+msgstr ""
+
+#: widgets/sb-social-icon.php:288
+msgid "RSS URL:"
+msgstr ""
+
+#: widgets/sb-tweet.php:13
+msgid ""
+"[Sidebar Widget] Display latest tweets in the sidebar. This widget "
+"requests to install oAuth Twitter Feed for Developers plugin for working."
+msgstr ""
+
+#: widgets/sb-tweet.php:15
+msgid "- [Sidebar] Twitter Tweets -"
+msgstr ""
+
+#: widgets/sb-tweet.php:46
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: widgets/sb-tweet.php:61
+msgid "Please install plugin name \"oAuth Twitter Feed for Developers"
+msgstr ""
+
+#: widgets/sb-tweet.php:82
+msgid "Latest Tweets"
+msgstr ""
+
+#: widgets/sb-tweet.php:96
+msgid "Number of Tweets:"
+msgstr ""
+
+#: widgets/sb-tweet.php:99
+msgid "Please create your Twitter App "
+msgstr ""
+
+#: widgets/sb-tweet.php:99
+msgid " and install "
+msgstr ""
+
+#: widgets/sb-tweet.php:99
+msgid "\"oAuth Twitter Feed for Developers\" Plugin"
+msgstr ""
+
+#: widgets/sb-youtube.php:11
+msgid "[Sidebar Widget] Display YouTube subscribe box in the sidebar."
+msgstr ""
+
+#: widgets/sb-youtube.php:13
+msgid "- [Sidebar] Youtube Subscribe -"
+msgstr ""
+
+#: widgets/sb-youtube.php:52
+msgid "Subscribe to Our Channel"
+msgstr ""
+
+#: widgets/sb-youtube.php:63
+msgid "Channel Name:"
+msgstr ""
+
+#: widgets/sb-youtube.php:67
+msgid "or Channel ID:"
+msgstr ""

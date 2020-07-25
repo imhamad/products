@@ -1,0 +1,354 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ruby Composer\n"
+"POT-Creation-Date: 2019-09-21 15:22+0700\n"
+"PO-Revision-Date: 2017-07-16 09:08+0700\n"
+"Last-Translator: \n"
+"Language-Team: Theme-Ruby <themeruby@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _x;__;_e;_nx:1,2;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: setup.php:81
+msgid "RUBY COMPOSER"
+msgstr ""
+
+#: setup.php:123
+msgid "Are you sure want to delete this section?"
+msgstr ""
+
+#: setup.php:124
+msgid "Are you sure want to delete this block?"
+msgstr ""
+
+#: setup.php:125
+msgid "Are you sure want to delete this template?"
+msgstr ""
+
+#: setup.php:126
+msgid "Are you sure want to add this template?"
+msgstr ""
+
+#: setup.php:187 templates.php:86 templates.php:94
+msgid "Ruby Composer"
+msgstr ""
+
+#: setup.php:249
+msgid "Query Filters"
+msgstr ""
+
+#: setup.php:250
+msgid "General"
+msgstr ""
+
+#: setup.php:251
+msgid "Block Header"
+msgstr ""
+
+#: setup.php:252
+msgid "Pagination"
+msgstr ""
+
+#: setup.php:253
+msgid "Layouts"
+msgstr ""
+
+#: setup.php:264
+msgid "FullWidth"
+msgstr ""
+
+#: setup.php:266
+msgid "Display content without sidebar"
+msgstr ""
+
+#: setup.php:271
+msgid "Section Layout"
+msgstr ""
+
+#: setup.php:272
+msgid "Select layout for this section"
+msgstr ""
+
+#: setup.php:274
+msgid "FullWidth (Inner Content: 1200px)"
+msgstr ""
+
+#: setup.php:275
+msgid "Wrapper (Boxed Section and Inner Content: 1200px )"
+msgstr ""
+
+#: setup.php:276
+msgid "FullWidth Stretched (Full-Wide Content: 100%)"
+msgstr ""
+
+#: setup.php:283 setup.php:360
+msgid "Margin"
+msgstr ""
+
+#: setup.php:284 setup.php:361
+msgid ""
+"Select margin top and bottom values (in px) for this section, default is "
+"50px"
+msgstr ""
+
+#: setup.php:293 setup.php:370
+msgid "Padding"
+msgstr ""
+
+#: setup.php:294 setup.php:371
+msgid "Select padding value (in px) for this section, default is 0"
+msgstr ""
+
+#: setup.php:305 setup.php:382
+msgid "Mobile - Margin"
+msgstr ""
+
+#: setup.php:306 setup.php:383
+msgid ""
+"Select margin top and bottom values (in px) for this section in mobile "
+"devices, default is 35px"
+msgstr ""
+
+#: setup.php:315 setup.php:392
+msgid "Mobile - Padding"
+msgstr ""
+
+#: setup.php:316 setup.php:393
+msgid ""
+"Select padding value (in px) for this section in mobile devices, default "
+"is 0"
+msgstr ""
+
+#: setup.php:327 setup.php:404
+msgid "Background Color"
+msgstr ""
+
+#: setup.php:328 setup.php:405
+msgid "Select background color for this section"
+msgstr ""
+
+#: setup.php:334 setup.php:411
+msgid "Background Image"
+msgstr ""
+
+#: setup.php:335 setup.php:412
+msgid ""
+"Select background image for this section, allow attachment image URL (."
+"png or .jpg at the end)"
+msgstr ""
+
+#: setup.php:341 setup.php:418
+msgid "Background Image Display"
+msgstr ""
+
+#: setup.php:342 setup.php:419
+msgid ""
+"Select background display for this section (if you use the background "
+"image)"
+msgstr ""
+
+#: setup.php:344 setup.php:421
+msgid "Cover"
+msgstr ""
+
+#: setup.php:345 setup.php:422
+msgid "Pattern"
+msgstr ""
+
+#: setup.php:353
+msgid "Content with Sidebar"
+msgstr ""
+
+#: setup.php:355
+msgid "Display section content with sidebar"
+msgstr ""
+
+#: templates.php:96
+msgid "Templates"
+msgstr ""
+
+#: templates.php:98
+msgid "Save Content as Template"
+msgstr ""
+
+#: templates.php:100
+msgid "Template Name/ID"
+msgstr ""
+
+#: templates.php:101
+msgid "Template ID/Name..."
+msgstr ""
+
+#: templates.php:102
+msgid "(*)Please input name/ID"
+msgstr ""
+
+#: templates.php:103
+msgid "Input a unique name/ID without special charsets and white spacing."
+msgstr ""
+
+#: templates.php:104
+msgid "Save"
+msgstr ""
+
+#: templates.php:105
+msgid "saving..."
+msgstr ""
+
+#: templates.php:107
+msgid "Load Template"
+msgstr ""
+
+#: templates.php:110
+msgid "No template saved yet!"
+msgstr ""
+
+#: templates.php:116
+msgid "Select a Section"
+msgstr ""
+
+#: templates.php:121
+msgid "Click on SECTION image to create a new section"
+msgstr ""
+
+#: templates.php:152 templates.php:185
+msgid "Blocks"
+msgstr ""
+
+#: templates.php:153 templates.php:187
+msgid "Section Settings"
+msgstr ""
+
+#: templates.php:162 templates.php:232
+msgid "Click on a BLOCK image to create a new block"
+msgstr ""
+
+#: templates.php:186
+msgid "Sidebar Settings"
+msgstr ""
+
+#: templates.php:193
+msgid "Sidebar Name:"
+msgstr ""
+
+#: templates.php:200
+msgid "Sidebar Position:"
+msgstr ""
+
+#: templates.php:203 templates.php:206 templates.php:247 templates.php:445
+msgid "Right"
+msgstr ""
+
+#: templates.php:204 templates.php:207 templates.php:259 templates.php:457
+msgid "Left"
+msgstr ""
+
+#: templates.php:212
+msgid "Sticky:"
+msgstr ""
+
+#: templates.php:216
+msgid "Default from Global Setting"
+msgstr ""
+
+#: templates.php:217
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: templates.php:218
+msgid "None"
+msgstr ""
+
+#: templates.php:241 templates.php:439
+msgid "Top"
+msgstr ""
+
+#: templates.php:253 templates.php:451
+msgid "Bottom"
+msgstr ""
+
+#: templates.php:346
+msgid "-- All categories --"
+msgstr ""
+
+#: templates.php:357
+msgid "-- Select a Category --"
+msgstr ""
+
+#: templates.php:367
+msgid "-- Disable --"
+msgstr ""
+
+#: templates.php:377
+msgid "-- All --"
+msgstr ""
+
+#: templates.php:378
+msgid "Default"
+msgstr ""
+
+#: templates.php:379
+msgid "Gallery"
+msgstr ""
+
+#: templates.php:380
+msgid "Video"
+msgstr ""
+
+#: templates.php:381
+msgid "Audio"
+msgstr ""
+
+#: templates.php:397
+msgid "--All Authors--"
+msgstr ""
+
+#: templates.php:416
+msgid "Latest Post"
+msgstr ""
+
+#: templates.php:417
+msgid "Popular Comment"
+msgstr ""
+
+#: templates.php:418
+msgid "Popular (Post Views Counter Plugin)"
+msgstr ""
+
+#: templates.php:419
+msgid "Top Review"
+msgstr ""
+
+#: templates.php:420
+msgid "Latest Review"
+msgstr ""
+
+#: templates.php:421
+msgid "Post Type"
+msgstr ""
+
+#: templates.php:422
+msgid "Random"
+msgstr ""
+
+#: templates.php:423
+msgid "Author"
+msgstr ""
+
+#: templates.php:424
+msgid "Title DECS"
+msgstr ""
+
+#: templates.php:425
+msgid "Title ACS"
+msgstr ""

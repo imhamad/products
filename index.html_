@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <meta charset="UTF-8">
+  <meta name="description" content="Kitchen stack provides you the best kitchenware. Our sole purpose is ensuring excellence in kitchen products. We believe that every household should experience the advantages of modern equipment that helps our customer save energy and time. And most of all to make your kitchen experience more enjoyable and memorable. Kitchen stack provides you the most cost effective products for your kitchen.
+
+    In our daily life most of the labor is done in the kitchen so the safety of our house members is also necessary and kitchen stack brings you safer products with best quality. In our site you will find a variety of kitchen products that are reliable and high quality. Kitchenstack also helps you with the designing of your kitchen. At our site you will find best and stunning infrastructures for your kitchen.">
+  <meta name="keywords" content="Best kitchenware, kitchen products,cost effective products, kitchenstack">
+  <meta name="author" content="imhamad | imhamad.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kitchen Stack</title>
+<style>
+    .d-flex{
+   display: block;
+    margin: 20em auto;
+    min-width: 100%;
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+    }
+    body{
+        background:#f7f7f7;
+    }
+</style>
+</head>
+<body>
+<div class="d-flex">
+<h1>KitchenStack Website</h1>
+<p>Coming Soon</p>
+</div>
+</body>
+</html>
